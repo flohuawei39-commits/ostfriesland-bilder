@@ -13,7 +13,7 @@ const tag = 'gallery-ofrila07'
 
 function gh(args, capture = false) {
   return new Promise((resolve, reject) => {
-    const child = spawn('gh', args, { stdio: capture ? ['ignore', 'pipe', 'pipe'] : 'inherit', shell: process.platform === 'win32' })
+    const child = spawn('gh', args, { stdio: capture ? ['ignore', 'pipe', 'pipe'] : 'inherit' })
     let stdout = ''
     let stderr = ''
     if (capture) {
@@ -53,4 +53,3 @@ async function worker() {
 }
 await Promise.all([worker(), worker()])
 console.log(`Release ${tag} vollständig: ${files.length} Assets.`)
-
