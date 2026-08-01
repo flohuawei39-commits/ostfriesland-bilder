@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.import/
+.env
+.env.*
+!.env.example
+ofrila07/
+*.NEF
+*.nef
+*.zip
+*.part
+playwright-report/
+coverage/
+

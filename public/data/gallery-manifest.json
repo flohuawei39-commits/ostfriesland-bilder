@@ -1,0 +1,4881 @@
+{
+  "schemaVersion": 1,
+  "siteTitle": "Ostfriesland Bilder",
+  "owner": "flohuawei39-commits",
+  "repository": "ostfriesland-bilder",
+  "updatedAt": "2026-07-19T08:01:28.000Z",
+  "galleries": [
+    {
+      "id": "ofrila07",
+      "title": "ofrila07",
+      "releaseTag": "gallery-ofrila07",
+      "coverImageId": "dsc_9028",
+      "createdAt": "2026-07-19T08:01:28.000Z",
+      "updatedAt": "2026-07-19T08:01:28.000Z",
+      "images": [
+        {
+          "id": "dsc_9028",
+          "originalName": "DSC_9028.NEF",
+          "baseName": "DSC_9028",
+          "raw": {
+            "name": "DSC_9028.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9028.NEF",
+            "size": 26624908
+          },
+          "preview": {
+            "name": "DSC_9028.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9028.preview.jpg",
+            "size": 1715692
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9028.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26624908,
+            "previewBytes": 1715692,
+            "sourceLastModified": "2026-07-17T09:37:50.000Z"
+          },
+          "createdAt": "2026-07-17T09:37:50.000Z",
+          "updatedAt": "2026-07-17T09:37:50.000Z"
+        },
+        {
+          "id": "dsc_9029",
+          "originalName": "DSC_9029.NEF",
+          "baseName": "DSC_9029",
+          "raw": {
+            "name": "DSC_9029.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9029.NEF",
+            "size": 26858998
+          },
+          "preview": {
+            "name": "DSC_9029.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9029.preview.jpg",
+            "size": 1930595
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9029.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26858998,
+            "previewBytes": 1930595,
+            "sourceLastModified": "2026-07-17T09:37:50.000Z"
+          },
+          "createdAt": "2026-07-17T09:37:50.000Z",
+          "updatedAt": "2026-07-17T09:37:50.000Z"
+        },
+        {
+          "id": "dsc_9030",
+          "originalName": "DSC_9030.NEF",
+          "baseName": "DSC_9030",
+          "raw": {
+            "name": "DSC_9030.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9030.NEF",
+            "size": 26984653
+          },
+          "preview": {
+            "name": "DSC_9030.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9030.preview.jpg",
+            "size": 1949482
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9030.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26984653,
+            "previewBytes": 1949482,
+            "sourceLastModified": "2026-07-17T09:37:50.000Z"
+          },
+          "createdAt": "2026-07-17T09:37:50.000Z",
+          "updatedAt": "2026-07-17T09:37:50.000Z"
+        },
+        {
+          "id": "dsc_9031",
+          "originalName": "DSC_9031.NEF",
+          "baseName": "DSC_9031",
+          "raw": {
+            "name": "DSC_9031.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9031.NEF",
+            "size": 27077260
+          },
+          "preview": {
+            "name": "DSC_9031.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9031.preview.jpg",
+            "size": 1891434
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9031.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27077260,
+            "previewBytes": 1891434,
+            "sourceLastModified": "2026-07-17T09:37:52.000Z"
+          },
+          "createdAt": "2026-07-17T09:37:52.000Z",
+          "updatedAt": "2026-07-17T09:37:52.000Z"
+        },
+        {
+          "id": "dsc_9032",
+          "originalName": "DSC_9032.NEF",
+          "baseName": "DSC_9032",
+          "raw": {
+            "name": "DSC_9032.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9032.NEF",
+            "size": 26734692
+          },
+          "preview": {
+            "name": "DSC_9032.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9032.preview.jpg",
+            "size": 1763305
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9032.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26734692,
+            "previewBytes": 1763305,
+            "sourceLastModified": "2026-07-17T09:37:52.000Z"
+          },
+          "createdAt": "2026-07-17T09:37:52.000Z",
+          "updatedAt": "2026-07-17T09:37:52.000Z"
+        },
+        {
+          "id": "dsc_9033",
+          "originalName": "DSC_9033.NEF",
+          "baseName": "DSC_9033",
+          "raw": {
+            "name": "DSC_9033.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9033.NEF",
+            "size": 26797635
+          },
+          "preview": {
+            "name": "DSC_9033.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9033.preview.jpg",
+            "size": 1720244
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9033.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26797635,
+            "previewBytes": 1720244,
+            "sourceLastModified": "2026-07-17T09:37:52.000Z"
+          },
+          "createdAt": "2026-07-17T09:37:52.000Z",
+          "updatedAt": "2026-07-17T09:37:52.000Z"
+        },
+        {
+          "id": "dsc_9034",
+          "originalName": "DSC_9034.NEF",
+          "baseName": "DSC_9034",
+          "raw": {
+            "name": "DSC_9034.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9034.NEF",
+            "size": 26827474
+          },
+          "preview": {
+            "name": "DSC_9034.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9034.preview.jpg",
+            "size": 1835104
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9034.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26827474,
+            "previewBytes": 1835104,
+            "sourceLastModified": "2026-07-17T09:37:52.000Z"
+          },
+          "createdAt": "2026-07-17T09:37:52.000Z",
+          "updatedAt": "2026-07-17T09:37:52.000Z"
+        },
+        {
+          "id": "dsc_9035",
+          "originalName": "DSC_9035.NEF",
+          "baseName": "DSC_9035",
+          "raw": {
+            "name": "DSC_9035.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9035.NEF",
+            "size": 26804501
+          },
+          "preview": {
+            "name": "DSC_9035.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9035.preview.jpg",
+            "size": 1744937
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9035.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26804501,
+            "previewBytes": 1744937,
+            "sourceLastModified": "2026-07-17T09:37:52.000Z"
+          },
+          "createdAt": "2026-07-17T09:37:52.000Z",
+          "updatedAt": "2026-07-17T09:37:52.000Z"
+        },
+        {
+          "id": "dsc_9036",
+          "originalName": "DSC_9036.NEF",
+          "baseName": "DSC_9036",
+          "raw": {
+            "name": "DSC_9036.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9036.NEF",
+            "size": 26666060
+          },
+          "preview": {
+            "name": "DSC_9036.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9036.preview.jpg",
+            "size": 1723034
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9036.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26666060,
+            "previewBytes": 1723034,
+            "sourceLastModified": "2026-07-17T09:37:52.000Z"
+          },
+          "createdAt": "2026-07-17T09:37:52.000Z",
+          "updatedAt": "2026-07-17T09:37:52.000Z"
+        },
+        {
+          "id": "dsc_9037",
+          "originalName": "DSC_9037.NEF",
+          "baseName": "DSC_9037",
+          "raw": {
+            "name": "DSC_9037.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9037.NEF",
+            "size": 26965015
+          },
+          "preview": {
+            "name": "DSC_9037.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9037.preview.jpg",
+            "size": 2025438
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9037.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26965015,
+            "previewBytes": 2025438,
+            "sourceLastModified": "2026-07-17T09:37:54.000Z"
+          },
+          "createdAt": "2026-07-17T09:37:54.000Z",
+          "updatedAt": "2026-07-17T09:37:54.000Z"
+        },
+        {
+          "id": "dsc_9038",
+          "originalName": "DSC_9038.NEF",
+          "baseName": "DSC_9038",
+          "raw": {
+            "name": "DSC_9038.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9038.NEF",
+            "size": 26336796
+          },
+          "preview": {
+            "name": "DSC_9038.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9038.preview.jpg",
+            "size": 1660905
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9038.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26336796,
+            "previewBytes": 1660905,
+            "sourceLastModified": "2026-07-17T09:37:54.000Z"
+          },
+          "createdAt": "2026-07-17T09:37:54.000Z",
+          "updatedAt": "2026-07-17T09:37:54.000Z"
+        },
+        {
+          "id": "dsc_9039",
+          "originalName": "DSC_9039.NEF",
+          "baseName": "DSC_9039",
+          "raw": {
+            "name": "DSC_9039.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9039.NEF",
+            "size": 26515396
+          },
+          "preview": {
+            "name": "DSC_9039.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9039.preview.jpg",
+            "size": 1808080
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9039.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26515396,
+            "previewBytes": 1808080,
+            "sourceLastModified": "2026-07-17T09:37:54.000Z"
+          },
+          "createdAt": "2026-07-17T09:37:54.000Z",
+          "updatedAt": "2026-07-17T09:37:54.000Z"
+        },
+        {
+          "id": "dsc_9040",
+          "originalName": "DSC_9040.NEF",
+          "baseName": "DSC_9040",
+          "raw": {
+            "name": "DSC_9040.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9040.NEF",
+            "size": 26965835
+          },
+          "preview": {
+            "name": "DSC_9040.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9040.preview.jpg",
+            "size": 1823164
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9040.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26965835,
+            "previewBytes": 1823164,
+            "sourceLastModified": "2026-07-17T09:37:54.000Z"
+          },
+          "createdAt": "2026-07-17T09:37:54.000Z",
+          "updatedAt": "2026-07-17T09:37:54.000Z"
+        },
+        {
+          "id": "dsc_9041",
+          "originalName": "DSC_9041.NEF",
+          "baseName": "DSC_9041",
+          "raw": {
+            "name": "DSC_9041.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9041.NEF",
+            "size": 25136376
+          },
+          "preview": {
+            "name": "DSC_9041.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9041.preview.jpg",
+            "size": 1322950
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9041.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25136376,
+            "previewBytes": 1322950,
+            "sourceLastModified": "2026-07-17T09:38:44.000Z"
+          },
+          "createdAt": "2026-07-17T09:38:44.000Z",
+          "updatedAt": "2026-07-17T09:38:44.000Z"
+        },
+        {
+          "id": "dsc_9042",
+          "originalName": "DSC_9042.NEF",
+          "baseName": "DSC_9042",
+          "raw": {
+            "name": "DSC_9042.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9042.NEF",
+            "size": 25769250
+          },
+          "preview": {
+            "name": "DSC_9042.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9042.preview.jpg",
+            "size": 1479874
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9042.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25769250,
+            "previewBytes": 1479874,
+            "sourceLastModified": "2026-07-17T09:38:44.000Z"
+          },
+          "createdAt": "2026-07-17T09:38:44.000Z",
+          "updatedAt": "2026-07-17T09:38:44.000Z"
+        },
+        {
+          "id": "dsc_9043",
+          "originalName": "DSC_9043.NEF",
+          "baseName": "DSC_9043",
+          "raw": {
+            "name": "DSC_9043.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9043.NEF",
+            "size": 25663085
+          },
+          "preview": {
+            "name": "DSC_9043.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9043.preview.jpg",
+            "size": 1464096
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9043.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25663085,
+            "previewBytes": 1464096,
+            "sourceLastModified": "2026-07-17T09:39:00.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:00.000Z",
+          "updatedAt": "2026-07-17T09:39:00.000Z"
+        },
+        {
+          "id": "dsc_9044",
+          "originalName": "DSC_9044.NEF",
+          "baseName": "DSC_9044",
+          "raw": {
+            "name": "DSC_9044.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9044.NEF",
+            "size": 25742199
+          },
+          "preview": {
+            "name": "DSC_9044.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9044.preview.jpg",
+            "size": 1486146
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9044.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25742199,
+            "previewBytes": 1486146,
+            "sourceLastModified": "2026-07-17T09:39:00.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:00.000Z",
+          "updatedAt": "2026-07-17T09:39:00.000Z"
+        },
+        {
+          "id": "dsc_9045",
+          "originalName": "DSC_9045.NEF",
+          "baseName": "DSC_9045",
+          "raw": {
+            "name": "DSC_9045.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9045.NEF",
+            "size": 25289322
+          },
+          "preview": {
+            "name": "DSC_9045.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9045.preview.jpg",
+            "size": 1393408
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9045.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25289322,
+            "previewBytes": 1393408,
+            "sourceLastModified": "2026-07-17T09:39:02.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:02.000Z",
+          "updatedAt": "2026-07-17T09:39:02.000Z"
+        },
+        {
+          "id": "dsc_9046",
+          "originalName": "DSC_9046.NEF",
+          "baseName": "DSC_9046",
+          "raw": {
+            "name": "DSC_9046.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9046.NEF",
+            "size": 27089719
+          },
+          "preview": {
+            "name": "DSC_9046.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9046.preview.jpg",
+            "size": 2098928
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9046.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27089719,
+            "previewBytes": 2098928,
+            "sourceLastModified": "2026-07-17T09:39:06.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:06.000Z",
+          "updatedAt": "2026-07-17T09:39:06.000Z"
+        },
+        {
+          "id": "dsc_9047",
+          "originalName": "DSC_9047.NEF",
+          "baseName": "DSC_9047",
+          "raw": {
+            "name": "DSC_9047.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9047.NEF",
+            "size": 27119275
+          },
+          "preview": {
+            "name": "DSC_9047.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9047.preview.jpg",
+            "size": 2098675
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9047.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27119275,
+            "previewBytes": 2098675,
+            "sourceLastModified": "2026-07-17T09:39:06.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:06.000Z",
+          "updatedAt": "2026-07-17T09:39:06.000Z"
+        },
+        {
+          "id": "dsc_9048",
+          "originalName": "DSC_9048.NEF",
+          "baseName": "DSC_9048",
+          "raw": {
+            "name": "DSC_9048.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9048.NEF",
+            "size": 27209512
+          },
+          "preview": {
+            "name": "DSC_9048.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9048.preview.jpg",
+            "size": 2145091
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9048.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27209512,
+            "previewBytes": 2145091,
+            "sourceLastModified": "2026-07-17T09:39:06.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:06.000Z",
+          "updatedAt": "2026-07-17T09:39:06.000Z"
+        },
+        {
+          "id": "dsc_9049",
+          "originalName": "DSC_9049.NEF",
+          "baseName": "DSC_9049",
+          "raw": {
+            "name": "DSC_9049.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9049.NEF",
+            "size": 27550170
+          },
+          "preview": {
+            "name": "DSC_9049.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9049.preview.jpg",
+            "size": 2290494
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9049.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27550170,
+            "previewBytes": 2290494,
+            "sourceLastModified": "2026-07-17T09:39:06.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:06.000Z",
+          "updatedAt": "2026-07-17T09:39:06.000Z"
+        },
+        {
+          "id": "dsc_9050",
+          "originalName": "DSC_9050.NEF",
+          "baseName": "DSC_9050",
+          "raw": {
+            "name": "DSC_9050.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9050.NEF",
+            "size": 25508665
+          },
+          "preview": {
+            "name": "DSC_9050.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9050.preview.jpg",
+            "size": 1585040
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9050.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25508665,
+            "previewBytes": 1585040,
+            "sourceLastModified": "2026-07-17T09:39:08.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:08.000Z",
+          "updatedAt": "2026-07-17T09:39:08.000Z"
+        },
+        {
+          "id": "dsc_9051",
+          "originalName": "DSC_9051.NEF",
+          "baseName": "DSC_9051",
+          "raw": {
+            "name": "DSC_9051.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9051.NEF",
+            "size": 27351081
+          },
+          "preview": {
+            "name": "DSC_9051.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9051.preview.jpg",
+            "size": 2205195
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9051.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27351081,
+            "previewBytes": 2205195,
+            "sourceLastModified": "2026-07-17T09:39:08.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:08.000Z",
+          "updatedAt": "2026-07-17T09:39:08.000Z"
+        },
+        {
+          "id": "dsc_9052",
+          "originalName": "DSC_9052.NEF",
+          "baseName": "DSC_9052",
+          "raw": {
+            "name": "DSC_9052.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9052.NEF",
+            "size": 26982696
+          },
+          "preview": {
+            "name": "DSC_9052.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9052.preview.jpg",
+            "size": 2115373
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9052.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26982696,
+            "previewBytes": 2115373,
+            "sourceLastModified": "2026-07-17T09:39:08.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:08.000Z",
+          "updatedAt": "2026-07-17T09:39:08.000Z"
+        },
+        {
+          "id": "dsc_9053",
+          "originalName": "DSC_9053.NEF",
+          "baseName": "DSC_9053",
+          "raw": {
+            "name": "DSC_9053.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9053.NEF",
+            "size": 27232055
+          },
+          "preview": {
+            "name": "DSC_9053.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9053.preview.jpg",
+            "size": 2224086
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9053.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27232055,
+            "previewBytes": 2224086,
+            "sourceLastModified": "2026-07-17T09:39:10.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:10.000Z",
+          "updatedAt": "2026-07-17T09:39:10.000Z"
+        },
+        {
+          "id": "dsc_9054",
+          "originalName": "DSC_9054.NEF",
+          "baseName": "DSC_9054",
+          "raw": {
+            "name": "DSC_9054.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9054.NEF",
+            "size": 27060889
+          },
+          "preview": {
+            "name": "DSC_9054.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9054.preview.jpg",
+            "size": 2192062
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9054.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27060889,
+            "previewBytes": 2192062,
+            "sourceLastModified": "2026-07-17T09:39:10.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:10.000Z",
+          "updatedAt": "2026-07-17T09:39:10.000Z"
+        },
+        {
+          "id": "dsc_9055",
+          "originalName": "DSC_9055.NEF",
+          "baseName": "DSC_9055",
+          "raw": {
+            "name": "DSC_9055.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9055.NEF",
+            "size": 26514788
+          },
+          "preview": {
+            "name": "DSC_9055.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9055.preview.jpg",
+            "size": 1970557
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9055.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26514788,
+            "previewBytes": 1970557,
+            "sourceLastModified": "2026-07-17T09:39:10.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:10.000Z",
+          "updatedAt": "2026-07-17T09:39:10.000Z"
+        },
+        {
+          "id": "dsc_9056",
+          "originalName": "DSC_9056.NEF",
+          "baseName": "DSC_9056",
+          "raw": {
+            "name": "DSC_9056.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9056.NEF",
+            "size": 27165976
+          },
+          "preview": {
+            "name": "DSC_9056.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9056.preview.jpg",
+            "size": 2164040
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9056.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27165976,
+            "previewBytes": 2164040,
+            "sourceLastModified": "2026-07-17T09:39:10.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:10.000Z",
+          "updatedAt": "2026-07-17T09:39:10.000Z"
+        },
+        {
+          "id": "dsc_9057",
+          "originalName": "DSC_9057.NEF",
+          "baseName": "DSC_9057",
+          "raw": {
+            "name": "DSC_9057.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9057.NEF",
+            "size": 27399806
+          },
+          "preview": {
+            "name": "DSC_9057.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9057.preview.jpg",
+            "size": 2292342
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9057.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27399806,
+            "previewBytes": 2292342,
+            "sourceLastModified": "2026-07-17T09:39:10.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:10.000Z",
+          "updatedAt": "2026-07-17T09:39:10.000Z"
+        },
+        {
+          "id": "dsc_9058",
+          "originalName": "DSC_9058.NEF",
+          "baseName": "DSC_9058",
+          "raw": {
+            "name": "DSC_9058.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9058.NEF",
+            "size": 26528264
+          },
+          "preview": {
+            "name": "DSC_9058.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9058.preview.jpg",
+            "size": 2016025
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9058.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26528264,
+            "previewBytes": 2016025,
+            "sourceLastModified": "2026-07-17T09:39:10.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:10.000Z",
+          "updatedAt": "2026-07-17T09:39:10.000Z"
+        },
+        {
+          "id": "dsc_9059",
+          "originalName": "DSC_9059.NEF",
+          "baseName": "DSC_9059",
+          "raw": {
+            "name": "DSC_9059.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9059.NEF",
+            "size": 26451730
+          },
+          "preview": {
+            "name": "DSC_9059.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9059.preview.jpg",
+            "size": 1995167
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9059.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26451730,
+            "previewBytes": 1995167,
+            "sourceLastModified": "2026-07-17T09:39:12.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:12.000Z",
+          "updatedAt": "2026-07-17T09:39:12.000Z"
+        },
+        {
+          "id": "dsc_9060",
+          "originalName": "DSC_9060.NEF",
+          "baseName": "DSC_9060",
+          "raw": {
+            "name": "DSC_9060.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9060.NEF",
+            "size": 29416396
+          },
+          "preview": {
+            "name": "DSC_9060.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9060.preview.jpg",
+            "size": 2694139
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9060.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 29416396,
+            "previewBytes": 2694139,
+            "sourceLastModified": "2026-07-17T09:39:14.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:14.000Z",
+          "updatedAt": "2026-07-17T09:39:14.000Z"
+        },
+        {
+          "id": "dsc_9061",
+          "originalName": "DSC_9061.NEF",
+          "baseName": "DSC_9061",
+          "raw": {
+            "name": "DSC_9061.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9061.NEF",
+            "size": 29711164
+          },
+          "preview": {
+            "name": "DSC_9061.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9061.preview.jpg",
+            "size": 2848202
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9061.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 29711164,
+            "previewBytes": 2848202,
+            "sourceLastModified": "2026-07-17T09:39:16.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:16.000Z",
+          "updatedAt": "2026-07-17T09:39:16.000Z"
+        },
+        {
+          "id": "dsc_9062",
+          "originalName": "DSC_9062.NEF",
+          "baseName": "DSC_9062",
+          "raw": {
+            "name": "DSC_9062.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9062.NEF",
+            "size": 26351577
+          },
+          "preview": {
+            "name": "DSC_9062.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9062.preview.jpg",
+            "size": 1857172
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9062.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26351577,
+            "previewBytes": 1857172,
+            "sourceLastModified": "2026-07-17T09:39:18.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:18.000Z",
+          "updatedAt": "2026-07-17T09:39:18.000Z"
+        },
+        {
+          "id": "dsc_9063",
+          "originalName": "DSC_9063.NEF",
+          "baseName": "DSC_9063",
+          "raw": {
+            "name": "DSC_9063.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9063.NEF",
+            "size": 26473332
+          },
+          "preview": {
+            "name": "DSC_9063.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9063.preview.jpg",
+            "size": 1860216
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9063.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26473332,
+            "previewBytes": 1860216,
+            "sourceLastModified": "2026-07-17T09:39:18.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:18.000Z",
+          "updatedAt": "2026-07-17T09:39:18.000Z"
+        },
+        {
+          "id": "dsc_9064",
+          "originalName": "DSC_9064.NEF",
+          "baseName": "DSC_9064",
+          "raw": {
+            "name": "DSC_9064.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9064.NEF",
+            "size": 29571997
+          },
+          "preview": {
+            "name": "DSC_9064.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9064.preview.jpg",
+            "size": 2838492
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9064.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 29571997,
+            "previewBytes": 2838492,
+            "sourceLastModified": "2026-07-17T09:39:18.000Z"
+          },
+          "createdAt": "2026-07-17T09:39:18.000Z",
+          "updatedAt": "2026-07-17T09:39:18.000Z"
+        },
+        {
+          "id": "dsc_9065",
+          "originalName": "DSC_9065.NEF",
+          "baseName": "DSC_9065",
+          "raw": {
+            "name": "DSC_9065.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9065.NEF",
+            "size": 27310876
+          },
+          "preview": {
+            "name": "DSC_9065.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9065.preview.jpg",
+            "size": 2261312
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9065.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27310876,
+            "previewBytes": 2261312,
+            "sourceLastModified": "2026-07-17T09:48:02.000Z"
+          },
+          "createdAt": "2026-07-17T09:48:02.000Z",
+          "updatedAt": "2026-07-17T09:48:02.000Z"
+        },
+        {
+          "id": "dsc_9066",
+          "originalName": "DSC_9066.NEF",
+          "baseName": "DSC_9066",
+          "raw": {
+            "name": "DSC_9066.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9066.NEF",
+            "size": 27237541
+          },
+          "preview": {
+            "name": "DSC_9066.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9066.preview.jpg",
+            "size": 2239333
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9066.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27237541,
+            "previewBytes": 2239333,
+            "sourceLastModified": "2026-07-17T09:48:02.000Z"
+          },
+          "createdAt": "2026-07-17T09:48:02.000Z",
+          "updatedAt": "2026-07-17T09:48:02.000Z"
+        },
+        {
+          "id": "dsc_9067",
+          "originalName": "DSC_9067.NEF",
+          "baseName": "DSC_9067",
+          "raw": {
+            "name": "DSC_9067.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9067.NEF",
+            "size": 26033218
+          },
+          "preview": {
+            "name": "DSC_9067.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9067.preview.jpg",
+            "size": 1610312
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9067.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26033218,
+            "previewBytes": 1610312,
+            "sourceLastModified": "2026-07-17T09:48:06.000Z"
+          },
+          "createdAt": "2026-07-17T09:48:06.000Z",
+          "updatedAt": "2026-07-17T09:48:06.000Z"
+        },
+        {
+          "id": "dsc_9068",
+          "originalName": "DSC_9068.NEF",
+          "baseName": "DSC_9068",
+          "raw": {
+            "name": "DSC_9068.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9068.NEF",
+            "size": 26087356
+          },
+          "preview": {
+            "name": "DSC_9068.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9068.preview.jpg",
+            "size": 1629533
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9068.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26087356,
+            "previewBytes": 1629533,
+            "sourceLastModified": "2026-07-17T09:48:06.000Z"
+          },
+          "createdAt": "2026-07-17T09:48:06.000Z",
+          "updatedAt": "2026-07-17T09:48:06.000Z"
+        },
+        {
+          "id": "dsc_9069",
+          "originalName": "DSC_9069.NEF",
+          "baseName": "DSC_9069",
+          "raw": {
+            "name": "DSC_9069.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9069.NEF",
+            "size": 26093424
+          },
+          "preview": {
+            "name": "DSC_9069.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9069.preview.jpg",
+            "size": 1626006
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9069.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26093424,
+            "previewBytes": 1626006,
+            "sourceLastModified": "2026-07-17T09:48:06.000Z"
+          },
+          "createdAt": "2026-07-17T09:48:06.000Z",
+          "updatedAt": "2026-07-17T09:48:06.000Z"
+        },
+        {
+          "id": "dsc_9070",
+          "originalName": "DSC_9070.NEF",
+          "baseName": "DSC_9070",
+          "raw": {
+            "name": "DSC_9070.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9070.NEF",
+            "size": 26288747
+          },
+          "preview": {
+            "name": "DSC_9070.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9070.preview.jpg",
+            "size": 1683140
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9070.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26288747,
+            "previewBytes": 1683140,
+            "sourceLastModified": "2026-07-17T09:48:12.000Z"
+          },
+          "createdAt": "2026-07-17T09:48:12.000Z",
+          "updatedAt": "2026-07-17T09:48:12.000Z"
+        },
+        {
+          "id": "dsc_9071",
+          "originalName": "DSC_9071.NEF",
+          "baseName": "DSC_9071",
+          "raw": {
+            "name": "DSC_9071.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9071.NEF",
+            "size": 27875807
+          },
+          "preview": {
+            "name": "DSC_9071.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9071.preview.jpg",
+            "size": 2184134
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9071.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27875807,
+            "previewBytes": 2184134,
+            "sourceLastModified": "2026-07-17T09:49:16.000Z"
+          },
+          "createdAt": "2026-07-17T09:49:16.000Z",
+          "updatedAt": "2026-07-17T09:49:16.000Z"
+        },
+        {
+          "id": "dsc_9072",
+          "originalName": "DSC_9072.NEF",
+          "baseName": "DSC_9072",
+          "raw": {
+            "name": "DSC_9072.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9072.NEF",
+            "size": 27352183
+          },
+          "preview": {
+            "name": "DSC_9072.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9072.preview.jpg",
+            "size": 2045220
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9072.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27352183,
+            "previewBytes": 2045220,
+            "sourceLastModified": "2026-07-17T09:49:18.000Z"
+          },
+          "createdAt": "2026-07-17T09:49:18.000Z",
+          "updatedAt": "2026-07-17T09:49:18.000Z"
+        },
+        {
+          "id": "dsc_9073",
+          "originalName": "DSC_9073.NEF",
+          "baseName": "DSC_9073",
+          "raw": {
+            "name": "DSC_9073.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9073.NEF",
+            "size": 27931709
+          },
+          "preview": {
+            "name": "DSC_9073.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9073.preview.jpg",
+            "size": 2253693
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9073.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27931709,
+            "previewBytes": 2253693,
+            "sourceLastModified": "2026-07-17T09:49:18.000Z"
+          },
+          "createdAt": "2026-07-17T09:49:18.000Z",
+          "updatedAt": "2026-07-17T09:49:18.000Z"
+        },
+        {
+          "id": "dsc_9074",
+          "originalName": "DSC_9074.NEF",
+          "baseName": "DSC_9074",
+          "raw": {
+            "name": "DSC_9074.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9074.NEF",
+            "size": 28067705
+          },
+          "preview": {
+            "name": "DSC_9074.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9074.preview.jpg",
+            "size": 2265932
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9074.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 28067705,
+            "previewBytes": 2265932,
+            "sourceLastModified": "2026-07-17T09:49:18.000Z"
+          },
+          "createdAt": "2026-07-17T09:49:18.000Z",
+          "updatedAt": "2026-07-17T09:49:18.000Z"
+        },
+        {
+          "id": "dsc_9075",
+          "originalName": "DSC_9075.NEF",
+          "baseName": "DSC_9075",
+          "raw": {
+            "name": "DSC_9075.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9075.NEF",
+            "size": 27570926
+          },
+          "preview": {
+            "name": "DSC_9075.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9075.preview.jpg",
+            "size": 2086780
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9075.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27570926,
+            "previewBytes": 2086780,
+            "sourceLastModified": "2026-07-17T09:49:18.000Z"
+          },
+          "createdAt": "2026-07-17T09:49:18.000Z",
+          "updatedAt": "2026-07-17T09:49:18.000Z"
+        },
+        {
+          "id": "dsc_9076",
+          "originalName": "DSC_9076.NEF",
+          "baseName": "DSC_9076",
+          "raw": {
+            "name": "DSC_9076.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9076.NEF",
+            "size": 25714421
+          },
+          "preview": {
+            "name": "DSC_9076.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9076.preview.jpg",
+            "size": 1539300
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9076.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25714421,
+            "previewBytes": 1539300,
+            "sourceLastModified": "2026-07-17T09:49:28.000Z"
+          },
+          "createdAt": "2026-07-17T09:49:28.000Z",
+          "updatedAt": "2026-07-17T09:49:28.000Z"
+        },
+        {
+          "id": "dsc_9077",
+          "originalName": "DSC_9077.NEF",
+          "baseName": "DSC_9077",
+          "raw": {
+            "name": "DSC_9077.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9077.NEF",
+            "size": 25627235
+          },
+          "preview": {
+            "name": "DSC_9077.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9077.preview.jpg",
+            "size": 1571133
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9077.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25627235,
+            "previewBytes": 1571133,
+            "sourceLastModified": "2026-07-17T09:49:32.000Z"
+          },
+          "createdAt": "2026-07-17T09:49:32.000Z",
+          "updatedAt": "2026-07-17T09:49:32.000Z"
+        },
+        {
+          "id": "dsc_9078",
+          "originalName": "DSC_9078.NEF",
+          "baseName": "DSC_9078",
+          "raw": {
+            "name": "DSC_9078.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9078.NEF",
+            "size": 28795570
+          },
+          "preview": {
+            "name": "DSC_9078.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9078.preview.jpg",
+            "size": 2580294
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9078.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 28795570,
+            "previewBytes": 2580294,
+            "sourceLastModified": "2026-07-17T09:49:50.000Z"
+          },
+          "createdAt": "2026-07-17T09:49:50.000Z",
+          "updatedAt": "2026-07-17T09:49:50.000Z"
+        },
+        {
+          "id": "dsc_9079",
+          "originalName": "DSC_9079.NEF",
+          "baseName": "DSC_9079",
+          "raw": {
+            "name": "DSC_9079.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9079.NEF",
+            "size": 28530387
+          },
+          "preview": {
+            "name": "DSC_9079.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9079.preview.jpg",
+            "size": 2453879
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9079.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 28530387,
+            "previewBytes": 2453879,
+            "sourceLastModified": "2026-07-17T09:49:52.000Z"
+          },
+          "createdAt": "2026-07-17T09:49:52.000Z",
+          "updatedAt": "2026-07-17T09:49:52.000Z"
+        },
+        {
+          "id": "dsc_9080",
+          "originalName": "DSC_9080.NEF",
+          "baseName": "DSC_9080",
+          "raw": {
+            "name": "DSC_9080.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9080.NEF",
+            "size": 28632156
+          },
+          "preview": {
+            "name": "DSC_9080.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9080.preview.jpg",
+            "size": 2542798
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9080.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 28632156,
+            "previewBytes": 2542798,
+            "sourceLastModified": "2026-07-17T09:49:52.000Z"
+          },
+          "createdAt": "2026-07-17T09:49:52.000Z",
+          "updatedAt": "2026-07-17T09:49:52.000Z"
+        },
+        {
+          "id": "dsc_9081",
+          "originalName": "DSC_9081.NEF",
+          "baseName": "DSC_9081",
+          "raw": {
+            "name": "DSC_9081.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9081.NEF",
+            "size": 26382981
+          },
+          "preview": {
+            "name": "DSC_9081.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9081.preview.jpg",
+            "size": 1906955
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9081.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26382981,
+            "previewBytes": 1906955,
+            "sourceLastModified": "2026-07-17T11:24:32.000Z"
+          },
+          "createdAt": "2026-07-17T11:24:32.000Z",
+          "updatedAt": "2026-07-17T11:24:32.000Z"
+        },
+        {
+          "id": "dsc_9082",
+          "originalName": "DSC_9082.NEF",
+          "baseName": "DSC_9082",
+          "raw": {
+            "name": "DSC_9082.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9082.NEF",
+            "size": 27872438
+          },
+          "preview": {
+            "name": "DSC_9082.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9082.preview.jpg",
+            "size": 2405564
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9082.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27872438,
+            "previewBytes": 2405564,
+            "sourceLastModified": "2026-07-17T11:24:38.000Z"
+          },
+          "createdAt": "2026-07-17T11:24:38.000Z",
+          "updatedAt": "2026-07-17T11:24:38.000Z"
+        },
+        {
+          "id": "dsc_9083",
+          "originalName": "DSC_9083.NEF",
+          "baseName": "DSC_9083",
+          "raw": {
+            "name": "DSC_9083.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9083.NEF",
+            "size": 27534880
+          },
+          "preview": {
+            "name": "DSC_9083.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9083.preview.jpg",
+            "size": 2193020
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9083.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27534880,
+            "previewBytes": 2193020,
+            "sourceLastModified": "2026-07-17T11:24:38.000Z"
+          },
+          "createdAt": "2026-07-17T11:24:38.000Z",
+          "updatedAt": "2026-07-17T11:24:38.000Z"
+        },
+        {
+          "id": "dsc_9084",
+          "originalName": "DSC_9084.NEF",
+          "baseName": "DSC_9084",
+          "raw": {
+            "name": "DSC_9084.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9084.NEF",
+            "size": 27802113
+          },
+          "preview": {
+            "name": "DSC_9084.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9084.preview.jpg",
+            "size": 2267397
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9084.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27802113,
+            "previewBytes": 2267397,
+            "sourceLastModified": "2026-07-17T11:24:38.000Z"
+          },
+          "createdAt": "2026-07-17T11:24:38.000Z",
+          "updatedAt": "2026-07-17T11:24:38.000Z"
+        },
+        {
+          "id": "dsc_9085",
+          "originalName": "DSC_9085.NEF",
+          "baseName": "DSC_9085",
+          "raw": {
+            "name": "DSC_9085.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9085.NEF",
+            "size": 25262711
+          },
+          "preview": {
+            "name": "DSC_9085.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9085.preview.jpg",
+            "size": 1310120
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9085.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25262711,
+            "previewBytes": 1310120,
+            "sourceLastModified": "2026-07-17T11:24:38.000Z"
+          },
+          "createdAt": "2026-07-17T11:24:38.000Z",
+          "updatedAt": "2026-07-17T11:24:38.000Z"
+        },
+        {
+          "id": "dsc_9086",
+          "originalName": "DSC_9086.NEF",
+          "baseName": "DSC_9086",
+          "raw": {
+            "name": "DSC_9086.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9086.NEF",
+            "size": 25247911
+          },
+          "preview": {
+            "name": "DSC_9086.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9086.preview.jpg",
+            "size": 1494303
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9086.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25247911,
+            "previewBytes": 1494303,
+            "sourceLastModified": "2026-07-17T11:24:38.000Z"
+          },
+          "createdAt": "2026-07-17T11:24:38.000Z",
+          "updatedAt": "2026-07-17T11:24:38.000Z"
+        },
+        {
+          "id": "dsc_9087",
+          "originalName": "DSC_9087.NEF",
+          "baseName": "DSC_9087",
+          "raw": {
+            "name": "DSC_9087.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9087.NEF",
+            "size": 25640121
+          },
+          "preview": {
+            "name": "DSC_9087.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9087.preview.jpg",
+            "size": 1426803
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9087.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25640121,
+            "previewBytes": 1426803,
+            "sourceLastModified": "2026-07-17T11:24:40.000Z"
+          },
+          "createdAt": "2026-07-17T11:24:40.000Z",
+          "updatedAt": "2026-07-17T11:24:40.000Z"
+        },
+        {
+          "id": "dsc_9089",
+          "originalName": "DSC_9089.NEF",
+          "baseName": "DSC_9089",
+          "raw": {
+            "name": "DSC_9089.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9089.NEF",
+            "size": 24559788
+          },
+          "preview": {
+            "name": "DSC_9089.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9089.preview.jpg",
+            "size": 1023136
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9089.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 24559788,
+            "previewBytes": 1023136,
+            "sourceLastModified": "2026-07-17T11:25:22.000Z"
+          },
+          "createdAt": "2026-07-17T11:25:22.000Z",
+          "updatedAt": "2026-07-17T11:25:22.000Z"
+        },
+        {
+          "id": "dsc_9090",
+          "originalName": "DSC_9090.NEF",
+          "baseName": "DSC_9090",
+          "raw": {
+            "name": "DSC_9090.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9090.NEF",
+            "size": 24385852
+          },
+          "preview": {
+            "name": "DSC_9090.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9090.preview.jpg",
+            "size": 997387
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9090.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 24385852,
+            "previewBytes": 997387,
+            "sourceLastModified": "2026-07-17T11:25:22.000Z"
+          },
+          "createdAt": "2026-07-17T11:25:22.000Z",
+          "updatedAt": "2026-07-17T11:25:22.000Z"
+        },
+        {
+          "id": "dsc_9096",
+          "originalName": "DSC_9096.NEF",
+          "baseName": "DSC_9096",
+          "raw": {
+            "name": "DSC_9096.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9096.NEF",
+            "size": 25445795
+          },
+          "preview": {
+            "name": "DSC_9096.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9096.preview.jpg",
+            "size": 1331755
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9096.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25445795,
+            "previewBytes": 1331755,
+            "sourceLastModified": "2026-07-17T17:31:24.000Z"
+          },
+          "createdAt": "2026-07-17T17:31:24.000Z",
+          "updatedAt": "2026-07-17T17:31:24.000Z"
+        },
+        {
+          "id": "dsc_9103",
+          "originalName": "DSC_9103.NEF",
+          "baseName": "DSC_9103",
+          "raw": {
+            "name": "DSC_9103.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9103.NEF",
+            "size": 25175860
+          },
+          "preview": {
+            "name": "DSC_9103.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9103.preview.jpg",
+            "size": 1152041
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9103.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25175860,
+            "previewBytes": 1152041,
+            "sourceLastModified": "2026-07-17T17:31:34.000Z"
+          },
+          "createdAt": "2026-07-17T17:31:34.000Z",
+          "updatedAt": "2026-07-17T17:31:34.000Z"
+        },
+        {
+          "id": "dsc_9104",
+          "originalName": "DSC_9104.NEF",
+          "baseName": "DSC_9104",
+          "raw": {
+            "name": "DSC_9104.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9104.NEF",
+            "size": 25230703
+          },
+          "preview": {
+            "name": "DSC_9104.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9104.preview.jpg",
+            "size": 1287798
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9104.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25230703,
+            "previewBytes": 1287798,
+            "sourceLastModified": "2026-07-17T17:32:04.000Z"
+          },
+          "createdAt": "2026-07-17T17:32:04.000Z",
+          "updatedAt": "2026-07-17T17:32:04.000Z"
+        },
+        {
+          "id": "dsc_9105",
+          "originalName": "DSC_9105.NEF",
+          "baseName": "DSC_9105",
+          "raw": {
+            "name": "DSC_9105.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9105.NEF",
+            "size": 25394954
+          },
+          "preview": {
+            "name": "DSC_9105.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9105.preview.jpg",
+            "size": 1353267
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9105.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25394954,
+            "previewBytes": 1353267,
+            "sourceLastModified": "2026-07-17T17:32:04.000Z"
+          },
+          "createdAt": "2026-07-17T17:32:04.000Z",
+          "updatedAt": "2026-07-17T17:32:04.000Z"
+        },
+        {
+          "id": "dsc_9106",
+          "originalName": "DSC_9106.NEF",
+          "baseName": "DSC_9106",
+          "raw": {
+            "name": "DSC_9106.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9106.NEF",
+            "size": 25269709
+          },
+          "preview": {
+            "name": "DSC_9106.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9106.preview.jpg",
+            "size": 1310921
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9106.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25269709,
+            "previewBytes": 1310921,
+            "sourceLastModified": "2026-07-17T17:32:04.000Z"
+          },
+          "createdAt": "2026-07-17T17:32:04.000Z",
+          "updatedAt": "2026-07-17T17:32:04.000Z"
+        },
+        {
+          "id": "dsc_9107",
+          "originalName": "DSC_9107.NEF",
+          "baseName": "DSC_9107",
+          "raw": {
+            "name": "DSC_9107.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9107.NEF",
+            "size": 25415667
+          },
+          "preview": {
+            "name": "DSC_9107.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9107.preview.jpg",
+            "size": 1339606
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9107.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25415667,
+            "previewBytes": 1339606,
+            "sourceLastModified": "2026-07-17T17:32:04.000Z"
+          },
+          "createdAt": "2026-07-17T17:32:04.000Z",
+          "updatedAt": "2026-07-17T17:32:04.000Z"
+        },
+        {
+          "id": "dsc_9108",
+          "originalName": "DSC_9108.NEF",
+          "baseName": "DSC_9108",
+          "raw": {
+            "name": "DSC_9108.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9108.NEF",
+            "size": 25452338
+          },
+          "preview": {
+            "name": "DSC_9108.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9108.preview.jpg",
+            "size": 1365969
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9108.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25452338,
+            "previewBytes": 1365969,
+            "sourceLastModified": "2026-07-17T17:32:04.000Z"
+          },
+          "createdAt": "2026-07-17T17:32:04.000Z",
+          "updatedAt": "2026-07-17T17:32:04.000Z"
+        },
+        {
+          "id": "dsc_9109",
+          "originalName": "DSC_9109.NEF",
+          "baseName": "DSC_9109",
+          "raw": {
+            "name": "DSC_9109.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9109.NEF",
+            "size": 25620719
+          },
+          "preview": {
+            "name": "DSC_9109.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9109.preview.jpg",
+            "size": 1423586
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9109.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25620719,
+            "previewBytes": 1423586,
+            "sourceLastModified": "2026-07-17T17:32:06.000Z"
+          },
+          "createdAt": "2026-07-17T17:32:06.000Z",
+          "updatedAt": "2026-07-17T17:32:06.000Z"
+        },
+        {
+          "id": "dsc_9110",
+          "originalName": "DSC_9110.NEF",
+          "baseName": "DSC_9110",
+          "raw": {
+            "name": "DSC_9110.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9110.NEF",
+            "size": 24769551
+          },
+          "preview": {
+            "name": "DSC_9110.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9110.preview.jpg",
+            "size": 1259314
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9110.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 24769551,
+            "previewBytes": 1259314,
+            "sourceLastModified": "2026-07-18T10:16:40.000Z"
+          },
+          "createdAt": "2026-07-18T10:16:40.000Z",
+          "updatedAt": "2026-07-18T10:16:40.000Z"
+        },
+        {
+          "id": "dsc_9111",
+          "originalName": "DSC_9111.NEF",
+          "baseName": "DSC_9111",
+          "raw": {
+            "name": "DSC_9111.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9111.NEF",
+            "size": 27007350
+          },
+          "preview": {
+            "name": "DSC_9111.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9111.preview.jpg",
+            "size": 1931637
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9111.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27007350,
+            "previewBytes": 1931637,
+            "sourceLastModified": "2026-07-18T10:17:08.000Z"
+          },
+          "createdAt": "2026-07-18T10:17:08.000Z",
+          "updatedAt": "2026-07-18T10:17:08.000Z"
+        },
+        {
+          "id": "dsc_9112",
+          "originalName": "DSC_9112.NEF",
+          "baseName": "DSC_9112",
+          "raw": {
+            "name": "DSC_9112.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9112.NEF",
+            "size": 28040558
+          },
+          "preview": {
+            "name": "DSC_9112.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9112.preview.jpg",
+            "size": 2653403
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9112.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 28040558,
+            "previewBytes": 2653403,
+            "sourceLastModified": "2026-07-18T10:18:36.000Z"
+          },
+          "createdAt": "2026-07-18T10:18:36.000Z",
+          "updatedAt": "2026-07-18T10:18:36.000Z"
+        },
+        {
+          "id": "dsc_9113",
+          "originalName": "DSC_9113.NEF",
+          "baseName": "DSC_9113",
+          "raw": {
+            "name": "DSC_9113.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9113.NEF",
+            "size": 28014427
+          },
+          "preview": {
+            "name": "DSC_9113.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9113.preview.jpg",
+            "size": 2593056
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9113.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 28014427,
+            "previewBytes": 2593056,
+            "sourceLastModified": "2026-07-18T10:18:50.000Z"
+          },
+          "createdAt": "2026-07-18T10:18:50.000Z",
+          "updatedAt": "2026-07-18T10:18:50.000Z"
+        },
+        {
+          "id": "dsc_9114",
+          "originalName": "DSC_9114.NEF",
+          "baseName": "DSC_9114",
+          "raw": {
+            "name": "DSC_9114.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9114.NEF",
+            "size": 28617150
+          },
+          "preview": {
+            "name": "DSC_9114.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9114.preview.jpg",
+            "size": 2716212
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9114.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 28617150,
+            "previewBytes": 2716212,
+            "sourceLastModified": "2026-07-18T10:19:10.000Z"
+          },
+          "createdAt": "2026-07-18T10:19:10.000Z",
+          "updatedAt": "2026-07-18T10:19:10.000Z"
+        },
+        {
+          "id": "dsc_9115",
+          "originalName": "DSC_9115.NEF",
+          "baseName": "DSC_9115",
+          "raw": {
+            "name": "DSC_9115.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9115.NEF",
+            "size": 28763144
+          },
+          "preview": {
+            "name": "DSC_9115.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9115.preview.jpg",
+            "size": 2476374
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9115.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 28763144,
+            "previewBytes": 2476374,
+            "sourceLastModified": "2026-07-18T10:20:12.000Z"
+          },
+          "createdAt": "2026-07-18T10:20:12.000Z",
+          "updatedAt": "2026-07-18T10:20:12.000Z"
+        },
+        {
+          "id": "dsc_9116",
+          "originalName": "DSC_9116.NEF",
+          "baseName": "DSC_9116",
+          "raw": {
+            "name": "DSC_9116.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9116.NEF",
+            "size": 26397517
+          },
+          "preview": {
+            "name": "DSC_9116.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9116.preview.jpg",
+            "size": 1743286
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9116.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26397517,
+            "previewBytes": 1743286,
+            "sourceLastModified": "2026-07-18T10:21:32.000Z"
+          },
+          "createdAt": "2026-07-18T10:21:32.000Z",
+          "updatedAt": "2026-07-18T10:21:32.000Z"
+        },
+        {
+          "id": "dsc_9117",
+          "originalName": "DSC_9117.NEF",
+          "baseName": "DSC_9117",
+          "raw": {
+            "name": "DSC_9117.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9117.NEF",
+            "size": 27559704
+          },
+          "preview": {
+            "name": "DSC_9117.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9117.preview.jpg",
+            "size": 2066866
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9117.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27559704,
+            "previewBytes": 2066866,
+            "sourceLastModified": "2026-07-18T10:22:42.000Z"
+          },
+          "createdAt": "2026-07-18T10:22:42.000Z",
+          "updatedAt": "2026-07-18T10:22:42.000Z"
+        },
+        {
+          "id": "dsc_9118",
+          "originalName": "DSC_9118.NEF",
+          "baseName": "DSC_9118",
+          "raw": {
+            "name": "DSC_9118.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9118.NEF",
+            "size": 27059048
+          },
+          "preview": {
+            "name": "DSC_9118.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9118.preview.jpg",
+            "size": 2209490
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9118.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27059048,
+            "previewBytes": 2209490,
+            "sourceLastModified": "2026-07-18T10:32:06.000Z"
+          },
+          "createdAt": "2026-07-18T10:32:06.000Z",
+          "updatedAt": "2026-07-18T10:32:06.000Z"
+        },
+        {
+          "id": "dsc_9119",
+          "originalName": "DSC_9119.NEF",
+          "baseName": "DSC_9119",
+          "raw": {
+            "name": "DSC_9119.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9119.NEF",
+            "size": 25497219
+          },
+          "preview": {
+            "name": "DSC_9119.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9119.preview.jpg",
+            "size": 1543941
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9119.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25497219,
+            "previewBytes": 1543941,
+            "sourceLastModified": "2026-07-18T10:32:12.000Z"
+          },
+          "createdAt": "2026-07-18T10:32:12.000Z",
+          "updatedAt": "2026-07-18T10:32:12.000Z"
+        },
+        {
+          "id": "dsc_9120",
+          "originalName": "DSC_9120.NEF",
+          "baseName": "DSC_9120",
+          "raw": {
+            "name": "DSC_9120.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9120.NEF",
+            "size": 26037625
+          },
+          "preview": {
+            "name": "DSC_9120.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9120.preview.jpg",
+            "size": 1741359
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9120.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26037625,
+            "previewBytes": 1741359,
+            "sourceLastModified": "2026-07-18T10:32:56.000Z"
+          },
+          "createdAt": "2026-07-18T10:32:56.000Z",
+          "updatedAt": "2026-07-18T10:32:56.000Z"
+        },
+        {
+          "id": "dsc_9121",
+          "originalName": "DSC_9121.NEF",
+          "baseName": "DSC_9121",
+          "raw": {
+            "name": "DSC_9121.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9121.NEF",
+            "size": 25920038
+          },
+          "preview": {
+            "name": "DSC_9121.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9121.preview.jpg",
+            "size": 1669523
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9121.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25920038,
+            "previewBytes": 1669523,
+            "sourceLastModified": "2026-07-18T10:33:24.000Z"
+          },
+          "createdAt": "2026-07-18T10:33:24.000Z",
+          "updatedAt": "2026-07-18T10:33:24.000Z"
+        },
+        {
+          "id": "dsc_9122",
+          "originalName": "DSC_9122.NEF",
+          "baseName": "DSC_9122",
+          "raw": {
+            "name": "DSC_9122.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9122.NEF",
+            "size": 26615440
+          },
+          "preview": {
+            "name": "DSC_9122.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9122.preview.jpg",
+            "size": 2021386
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9122.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26615440,
+            "previewBytes": 2021386,
+            "sourceLastModified": "2026-07-18T10:33:52.000Z"
+          },
+          "createdAt": "2026-07-18T10:33:52.000Z",
+          "updatedAt": "2026-07-18T10:33:52.000Z"
+        },
+        {
+          "id": "dsc_9123",
+          "originalName": "DSC_9123.NEF",
+          "baseName": "DSC_9123",
+          "raw": {
+            "name": "DSC_9123.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9123.NEF",
+            "size": 24402019
+          },
+          "preview": {
+            "name": "DSC_9123.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9123.preview.jpg",
+            "size": 1303439
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9123.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 24402019,
+            "previewBytes": 1303439,
+            "sourceLastModified": "2026-07-18T10:35:02.000Z"
+          },
+          "createdAt": "2026-07-18T10:35:02.000Z",
+          "updatedAt": "2026-07-18T10:35:02.000Z"
+        },
+        {
+          "id": "dsc_9124",
+          "originalName": "DSC_9124.NEF",
+          "baseName": "DSC_9124",
+          "raw": {
+            "name": "DSC_9124.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9124.NEF",
+            "size": 22688416
+          },
+          "preview": {
+            "name": "DSC_9124.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9124.preview.jpg",
+            "size": 872860
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9124.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 22688416,
+            "previewBytes": 872860,
+            "sourceLastModified": "2026-07-18T10:35:26.000Z"
+          },
+          "createdAt": "2026-07-18T10:35:26.000Z",
+          "updatedAt": "2026-07-18T10:35:26.000Z"
+        },
+        {
+          "id": "dsc_9125",
+          "originalName": "DSC_9125.NEF",
+          "baseName": "DSC_9125",
+          "raw": {
+            "name": "DSC_9125.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9125.NEF",
+            "size": 24533980
+          },
+          "preview": {
+            "name": "DSC_9125.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9125.preview.jpg",
+            "size": 1387143
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9125.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 24533980,
+            "previewBytes": 1387143,
+            "sourceLastModified": "2026-07-18T10:35:56.000Z"
+          },
+          "createdAt": "2026-07-18T10:35:56.000Z",
+          "updatedAt": "2026-07-18T10:35:56.000Z"
+        },
+        {
+          "id": "dsc_9126",
+          "originalName": "DSC_9126.NEF",
+          "baseName": "DSC_9126",
+          "raw": {
+            "name": "DSC_9126.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9126.NEF",
+            "size": 25815686
+          },
+          "preview": {
+            "name": "DSC_9126.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9126.preview.jpg",
+            "size": 1473492
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9126.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25815686,
+            "previewBytes": 1473492,
+            "sourceLastModified": "2026-07-18T10:37:10.000Z"
+          },
+          "createdAt": "2026-07-18T10:37:10.000Z",
+          "updatedAt": "2026-07-18T10:37:10.000Z"
+        },
+        {
+          "id": "dsc_9127",
+          "originalName": "DSC_9127.NEF",
+          "baseName": "DSC_9127",
+          "raw": {
+            "name": "DSC_9127.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9127.NEF",
+            "size": 25178643
+          },
+          "preview": {
+            "name": "DSC_9127.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9127.preview.jpg",
+            "size": 1307251
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9127.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25178643,
+            "previewBytes": 1307251,
+            "sourceLastModified": "2026-07-18T10:37:40.000Z"
+          },
+          "createdAt": "2026-07-18T10:37:40.000Z",
+          "updatedAt": "2026-07-18T10:37:40.000Z"
+        },
+        {
+          "id": "dsc_9128",
+          "originalName": "DSC_9128.NEF",
+          "baseName": "DSC_9128",
+          "raw": {
+            "name": "DSC_9128.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9128.NEF",
+            "size": 26038469
+          },
+          "preview": {
+            "name": "DSC_9128.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9128.preview.jpg",
+            "size": 1549152
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9128.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26038469,
+            "previewBytes": 1549152,
+            "sourceLastModified": "2026-07-18T10:39:00.000Z"
+          },
+          "createdAt": "2026-07-18T10:39:00.000Z",
+          "updatedAt": "2026-07-18T10:39:00.000Z"
+        },
+        {
+          "id": "dsc_9129",
+          "originalName": "DSC_9129.NEF",
+          "baseName": "DSC_9129",
+          "raw": {
+            "name": "DSC_9129.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9129.NEF",
+            "size": 25101101
+          },
+          "preview": {
+            "name": "DSC_9129.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9129.preview.jpg",
+            "size": 1317534
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9129.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25101101,
+            "previewBytes": 1317534,
+            "sourceLastModified": "2026-07-18T10:40:00.000Z"
+          },
+          "createdAt": "2026-07-18T10:40:00.000Z",
+          "updatedAt": "2026-07-18T10:40:00.000Z"
+        },
+        {
+          "id": "dsc_9130",
+          "originalName": "DSC_9130.NEF",
+          "baseName": "DSC_9130",
+          "raw": {
+            "name": "DSC_9130.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9130.NEF",
+            "size": 25067082
+          },
+          "preview": {
+            "name": "DSC_9130.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9130.preview.jpg",
+            "size": 1321091
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9130.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25067082,
+            "previewBytes": 1321091,
+            "sourceLastModified": "2026-07-18T10:40:02.000Z"
+          },
+          "createdAt": "2026-07-18T10:40:02.000Z",
+          "updatedAt": "2026-07-18T10:40:02.000Z"
+        },
+        {
+          "id": "dsc_9131",
+          "originalName": "DSC_9131.NEF",
+          "baseName": "DSC_9131",
+          "raw": {
+            "name": "DSC_9131.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9131.NEF",
+            "size": 25136415
+          },
+          "preview": {
+            "name": "DSC_9131.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9131.preview.jpg",
+            "size": 1306146
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9131.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25136415,
+            "previewBytes": 1306146,
+            "sourceLastModified": "2026-07-18T10:40:04.000Z"
+          },
+          "createdAt": "2026-07-18T10:40:04.000Z",
+          "updatedAt": "2026-07-18T10:40:04.000Z"
+        },
+        {
+          "id": "dsc_9132",
+          "originalName": "DSC_9132.NEF",
+          "baseName": "DSC_9132",
+          "raw": {
+            "name": "DSC_9132.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9132.NEF",
+            "size": 25249020
+          },
+          "preview": {
+            "name": "DSC_9132.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9132.preview.jpg",
+            "size": 1357057
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9132.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25249020,
+            "previewBytes": 1357057,
+            "sourceLastModified": "2026-07-18T10:40:04.000Z"
+          },
+          "createdAt": "2026-07-18T10:40:04.000Z",
+          "updatedAt": "2026-07-18T10:40:04.000Z"
+        },
+        {
+          "id": "dsc_9133",
+          "originalName": "DSC_9133.NEF",
+          "baseName": "DSC_9133",
+          "raw": {
+            "name": "DSC_9133.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9133.NEF",
+            "size": 25050803
+          },
+          "preview": {
+            "name": "DSC_9133.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9133.preview.jpg",
+            "size": 1316106
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9133.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25050803,
+            "previewBytes": 1316106,
+            "sourceLastModified": "2026-07-18T10:40:04.000Z"
+          },
+          "createdAt": "2026-07-18T10:40:04.000Z",
+          "updatedAt": "2026-07-18T10:40:04.000Z"
+        },
+        {
+          "id": "dsc_9134",
+          "originalName": "DSC_9134.NEF",
+          "baseName": "DSC_9134",
+          "raw": {
+            "name": "DSC_9134.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9134.NEF",
+            "size": 24978438
+          },
+          "preview": {
+            "name": "DSC_9134.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9134.preview.jpg",
+            "size": 1280257
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9134.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 24978438,
+            "previewBytes": 1280257,
+            "sourceLastModified": "2026-07-18T10:40:04.000Z"
+          },
+          "createdAt": "2026-07-18T10:40:04.000Z",
+          "updatedAt": "2026-07-18T10:40:04.000Z"
+        },
+        {
+          "id": "dsc_9135",
+          "originalName": "DSC_9135.NEF",
+          "baseName": "DSC_9135",
+          "raw": {
+            "name": "DSC_9135.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9135.NEF",
+            "size": 25144294
+          },
+          "preview": {
+            "name": "DSC_9135.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9135.preview.jpg",
+            "size": 1342346
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9135.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25144294,
+            "previewBytes": 1342346,
+            "sourceLastModified": "2026-07-18T10:40:06.000Z"
+          },
+          "createdAt": "2026-07-18T10:40:06.000Z",
+          "updatedAt": "2026-07-18T10:40:06.000Z"
+        },
+        {
+          "id": "dsc_9136",
+          "originalName": "DSC_9136.NEF",
+          "baseName": "DSC_9136",
+          "raw": {
+            "name": "DSC_9136.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9136.NEF",
+            "size": 25293157
+          },
+          "preview": {
+            "name": "DSC_9136.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9136.preview.jpg",
+            "size": 1411128
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9136.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25293157,
+            "previewBytes": 1411128,
+            "sourceLastModified": "2026-07-18T10:40:06.000Z"
+          },
+          "createdAt": "2026-07-18T10:40:06.000Z",
+          "updatedAt": "2026-07-18T10:40:06.000Z"
+        },
+        {
+          "id": "dsc_9137",
+          "originalName": "DSC_9137.NEF",
+          "baseName": "DSC_9137",
+          "raw": {
+            "name": "DSC_9137.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9137.NEF",
+            "size": 25924848
+          },
+          "preview": {
+            "name": "DSC_9137.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9137.preview.jpg",
+            "size": 1635921
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9137.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25924848,
+            "previewBytes": 1635921,
+            "sourceLastModified": "2026-07-18T10:40:06.000Z"
+          },
+          "createdAt": "2026-07-18T10:40:06.000Z",
+          "updatedAt": "2026-07-18T10:40:06.000Z"
+        },
+        {
+          "id": "dsc_9138",
+          "originalName": "DSC_9138.NEF",
+          "baseName": "DSC_9138",
+          "raw": {
+            "name": "DSC_9138.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9138.NEF",
+            "size": 25123575
+          },
+          "preview": {
+            "name": "DSC_9138.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9138.preview.jpg",
+            "size": 1311984
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9138.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25123575,
+            "previewBytes": 1311984,
+            "sourceLastModified": "2026-07-18T10:40:16.000Z"
+          },
+          "createdAt": "2026-07-18T10:40:16.000Z",
+          "updatedAt": "2026-07-18T10:40:16.000Z"
+        },
+        {
+          "id": "dsc_9139",
+          "originalName": "DSC_9139.NEF",
+          "baseName": "DSC_9139",
+          "raw": {
+            "name": "DSC_9139.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9139.NEF",
+            "size": 28399468
+          },
+          "preview": {
+            "name": "DSC_9139.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9139.preview.jpg",
+            "size": 2478075
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9139.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 28399468,
+            "previewBytes": 2478075,
+            "sourceLastModified": "2026-07-18T10:40:22.000Z"
+          },
+          "createdAt": "2026-07-18T10:40:22.000Z",
+          "updatedAt": "2026-07-18T10:40:22.000Z"
+        },
+        {
+          "id": "dsc_9140",
+          "originalName": "DSC_9140.NEF",
+          "baseName": "DSC_9140",
+          "raw": {
+            "name": "DSC_9140.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9140.NEF",
+            "size": 27680524
+          },
+          "preview": {
+            "name": "DSC_9140.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9140.preview.jpg",
+            "size": 2199447
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9140.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27680524,
+            "previewBytes": 2199447,
+            "sourceLastModified": "2026-07-18T10:40:22.000Z"
+          },
+          "createdAt": "2026-07-18T10:40:22.000Z",
+          "updatedAt": "2026-07-18T10:40:22.000Z"
+        },
+        {
+          "id": "dsc_9141",
+          "originalName": "DSC_9141.NEF",
+          "baseName": "DSC_9141",
+          "raw": {
+            "name": "DSC_9141.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9141.NEF",
+            "size": 26987573
+          },
+          "preview": {
+            "name": "DSC_9141.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9141.preview.jpg",
+            "size": 1916259
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9141.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26987573,
+            "previewBytes": 1916259,
+            "sourceLastModified": "2026-07-18T10:40:24.000Z"
+          },
+          "createdAt": "2026-07-18T10:40:24.000Z",
+          "updatedAt": "2026-07-18T10:40:24.000Z"
+        },
+        {
+          "id": "dsc_9142",
+          "originalName": "DSC_9142.NEF",
+          "baseName": "DSC_9142",
+          "raw": {
+            "name": "DSC_9142.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9142.NEF",
+            "size": 27790807
+          },
+          "preview": {
+            "name": "DSC_9142.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9142.preview.jpg",
+            "size": 2241890
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9142.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27790807,
+            "previewBytes": 2241890,
+            "sourceLastModified": "2026-07-18T10:40:24.000Z"
+          },
+          "createdAt": "2026-07-18T10:40:24.000Z",
+          "updatedAt": "2026-07-18T10:40:24.000Z"
+        },
+        {
+          "id": "dsc_9143",
+          "originalName": "DSC_9143.NEF",
+          "baseName": "DSC_9143",
+          "raw": {
+            "name": "DSC_9143.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9143.NEF",
+            "size": 26849541
+          },
+          "preview": {
+            "name": "DSC_9143.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9143.preview.jpg",
+            "size": 1942558
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9143.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26849541,
+            "previewBytes": 1942558,
+            "sourceLastModified": "2026-07-18T10:40:42.000Z"
+          },
+          "createdAt": "2026-07-18T10:40:42.000Z",
+          "updatedAt": "2026-07-18T10:40:42.000Z"
+        },
+        {
+          "id": "dsc_9144",
+          "originalName": "DSC_9144.NEF",
+          "baseName": "DSC_9144",
+          "raw": {
+            "name": "DSC_9144.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9144.NEF",
+            "size": 26694548
+          },
+          "preview": {
+            "name": "DSC_9144.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9144.preview.jpg",
+            "size": 1799405
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9144.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26694548,
+            "previewBytes": 1799405,
+            "sourceLastModified": "2026-07-18T10:40:42.000Z"
+          },
+          "createdAt": "2026-07-18T10:40:42.000Z",
+          "updatedAt": "2026-07-18T10:40:42.000Z"
+        },
+        {
+          "id": "dsc_9145",
+          "originalName": "DSC_9145.NEF",
+          "baseName": "DSC_9145",
+          "raw": {
+            "name": "DSC_9145.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9145.NEF",
+            "size": 26748271
+          },
+          "preview": {
+            "name": "DSC_9145.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9145.preview.jpg",
+            "size": 1884414
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9145.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26748271,
+            "previewBytes": 1884414,
+            "sourceLastModified": "2026-07-18T17:00:52.000Z"
+          },
+          "createdAt": "2026-07-18T17:00:52.000Z",
+          "updatedAt": "2026-07-18T17:00:52.000Z"
+        },
+        {
+          "id": "dsc_9146",
+          "originalName": "DSC_9146.NEF",
+          "baseName": "DSC_9146",
+          "raw": {
+            "name": "DSC_9146.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9146.NEF",
+            "size": 26065064
+          },
+          "preview": {
+            "name": "DSC_9146.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9146.preview.jpg",
+            "size": 1460502
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9146.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26065064,
+            "previewBytes": 1460502,
+            "sourceLastModified": "2026-07-18T17:00:52.000Z"
+          },
+          "createdAt": "2026-07-18T17:00:52.000Z",
+          "updatedAt": "2026-07-18T17:00:52.000Z"
+        },
+        {
+          "id": "dsc_9147",
+          "originalName": "DSC_9147.NEF",
+          "baseName": "DSC_9147",
+          "raw": {
+            "name": "DSC_9147.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9147.NEF",
+            "size": 25858404
+          },
+          "preview": {
+            "name": "DSC_9147.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9147.preview.jpg",
+            "size": 1476421
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9147.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25858404,
+            "previewBytes": 1476421,
+            "sourceLastModified": "2026-07-18T17:00:52.000Z"
+          },
+          "createdAt": "2026-07-18T17:00:52.000Z",
+          "updatedAt": "2026-07-18T17:00:52.000Z"
+        },
+        {
+          "id": "dsc_9148",
+          "originalName": "DSC_9148.NEF",
+          "baseName": "DSC_9148",
+          "raw": {
+            "name": "DSC_9148.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9148.NEF",
+            "size": 25823132
+          },
+          "preview": {
+            "name": "DSC_9148.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9148.preview.jpg",
+            "size": 1489648
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9148.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25823132,
+            "previewBytes": 1489648,
+            "sourceLastModified": "2026-07-18T17:00:54.000Z"
+          },
+          "createdAt": "2026-07-18T17:00:54.000Z",
+          "updatedAt": "2026-07-18T17:00:54.000Z"
+        },
+        {
+          "id": "dsc_9149",
+          "originalName": "DSC_9149.NEF",
+          "baseName": "DSC_9149",
+          "raw": {
+            "name": "DSC_9149.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9149.NEF",
+            "size": 25762888
+          },
+          "preview": {
+            "name": "DSC_9149.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9149.preview.jpg",
+            "size": 1461716
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9149.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25762888,
+            "previewBytes": 1461716,
+            "sourceLastModified": "2026-07-18T17:00:54.000Z"
+          },
+          "createdAt": "2026-07-18T17:00:54.000Z",
+          "updatedAt": "2026-07-18T17:00:54.000Z"
+        },
+        {
+          "id": "dsc_9150",
+          "originalName": "DSC_9150.NEF",
+          "baseName": "DSC_9150",
+          "raw": {
+            "name": "DSC_9150.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9150.NEF",
+            "size": 25579163
+          },
+          "preview": {
+            "name": "DSC_9150.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9150.preview.jpg",
+            "size": 1368483
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9150.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25579163,
+            "previewBytes": 1368483,
+            "sourceLastModified": "2026-07-18T17:00:54.000Z"
+          },
+          "createdAt": "2026-07-18T17:00:54.000Z",
+          "updatedAt": "2026-07-18T17:00:54.000Z"
+        },
+        {
+          "id": "dsc_9151",
+          "originalName": "DSC_9151.NEF",
+          "baseName": "DSC_9151",
+          "raw": {
+            "name": "DSC_9151.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9151.NEF",
+            "size": 25713228
+          },
+          "preview": {
+            "name": "DSC_9151.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9151.preview.jpg",
+            "size": 1439781
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9151.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25713228,
+            "previewBytes": 1439781,
+            "sourceLastModified": "2026-07-18T17:00:54.000Z"
+          },
+          "createdAt": "2026-07-18T17:00:54.000Z",
+          "updatedAt": "2026-07-18T17:00:54.000Z"
+        },
+        {
+          "id": "dsc_9152",
+          "originalName": "DSC_9152.NEF",
+          "baseName": "DSC_9152",
+          "raw": {
+            "name": "DSC_9152.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9152.NEF",
+            "size": 25561935
+          },
+          "preview": {
+            "name": "DSC_9152.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9152.preview.jpg",
+            "size": 1393013
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9152.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25561935,
+            "previewBytes": 1393013,
+            "sourceLastModified": "2026-07-18T17:00:54.000Z"
+          },
+          "createdAt": "2026-07-18T17:00:54.000Z",
+          "updatedAt": "2026-07-18T17:00:54.000Z"
+        },
+        {
+          "id": "dsc_9153",
+          "originalName": "DSC_9153.NEF",
+          "baseName": "DSC_9153",
+          "raw": {
+            "name": "DSC_9153.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9153.NEF",
+            "size": 26956569
+          },
+          "preview": {
+            "name": "DSC_9153.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9153.preview.jpg",
+            "size": 1965015
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9153.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26956569,
+            "previewBytes": 1965015,
+            "sourceLastModified": "2026-07-18T17:01:24.000Z"
+          },
+          "createdAt": "2026-07-18T17:01:24.000Z",
+          "updatedAt": "2026-07-18T17:01:24.000Z"
+        },
+        {
+          "id": "dsc_9154",
+          "originalName": "DSC_9154.NEF",
+          "baseName": "DSC_9154",
+          "raw": {
+            "name": "DSC_9154.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9154.NEF",
+            "size": 27193990
+          },
+          "preview": {
+            "name": "DSC_9154.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9154.preview.jpg",
+            "size": 2055415
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9154.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27193990,
+            "previewBytes": 2055415,
+            "sourceLastModified": "2026-07-18T17:01:24.000Z"
+          },
+          "createdAt": "2026-07-18T17:01:24.000Z",
+          "updatedAt": "2026-07-18T17:01:24.000Z"
+        },
+        {
+          "id": "dsc_9155",
+          "originalName": "DSC_9155.NEF",
+          "baseName": "DSC_9155",
+          "raw": {
+            "name": "DSC_9155.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9155.NEF",
+            "size": 27178591
+          },
+          "preview": {
+            "name": "DSC_9155.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9155.preview.jpg",
+            "size": 2039889
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9155.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27178591,
+            "previewBytes": 2039889,
+            "sourceLastModified": "2026-07-18T17:01:24.000Z"
+          },
+          "createdAt": "2026-07-18T17:01:24.000Z",
+          "updatedAt": "2026-07-18T17:01:24.000Z"
+        },
+        {
+          "id": "dsc_9156",
+          "originalName": "DSC_9156.NEF",
+          "baseName": "DSC_9156",
+          "raw": {
+            "name": "DSC_9156.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9156.NEF",
+            "size": 27052244
+          },
+          "preview": {
+            "name": "DSC_9156.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9156.preview.jpg",
+            "size": 1957803
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9156.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27052244,
+            "previewBytes": 1957803,
+            "sourceLastModified": "2026-07-18T17:01:24.000Z"
+          },
+          "createdAt": "2026-07-18T17:01:24.000Z",
+          "updatedAt": "2026-07-18T17:01:24.000Z"
+        },
+        {
+          "id": "dsc_9157",
+          "originalName": "DSC_9157.NEF",
+          "baseName": "DSC_9157",
+          "raw": {
+            "name": "DSC_9157.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9157.NEF",
+            "size": 27091344
+          },
+          "preview": {
+            "name": "DSC_9157.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9157.preview.jpg",
+            "size": 1993026
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9157.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27091344,
+            "previewBytes": 1993026,
+            "sourceLastModified": "2026-07-18T17:01:26.000Z"
+          },
+          "createdAt": "2026-07-18T17:01:26.000Z",
+          "updatedAt": "2026-07-18T17:01:26.000Z"
+        },
+        {
+          "id": "dsc_9158",
+          "originalName": "DSC_9158.NEF",
+          "baseName": "DSC_9158",
+          "raw": {
+            "name": "DSC_9158.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9158.NEF",
+            "size": 27241976
+          },
+          "preview": {
+            "name": "DSC_9158.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9158.preview.jpg",
+            "size": 2044603
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9158.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27241976,
+            "previewBytes": 2044603,
+            "sourceLastModified": "2026-07-18T17:01:26.000Z"
+          },
+          "createdAt": "2026-07-18T17:01:26.000Z",
+          "updatedAt": "2026-07-18T17:01:26.000Z"
+        },
+        {
+          "id": "dsc_9159",
+          "originalName": "DSC_9159.NEF",
+          "baseName": "DSC_9159",
+          "raw": {
+            "name": "DSC_9159.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9159.NEF",
+            "size": 27223910
+          },
+          "preview": {
+            "name": "DSC_9159.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9159.preview.jpg",
+            "size": 2047187
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9159.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27223910,
+            "previewBytes": 2047187,
+            "sourceLastModified": "2026-07-18T17:01:26.000Z"
+          },
+          "createdAt": "2026-07-18T17:01:26.000Z",
+          "updatedAt": "2026-07-18T17:01:26.000Z"
+        },
+        {
+          "id": "dsc_9160",
+          "originalName": "DSC_9160.NEF",
+          "baseName": "DSC_9160",
+          "raw": {
+            "name": "DSC_9160.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9160.NEF",
+            "size": 27242229
+          },
+          "preview": {
+            "name": "DSC_9160.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9160.preview.jpg",
+            "size": 2060322
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9160.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27242229,
+            "previewBytes": 2060322,
+            "sourceLastModified": "2026-07-18T17:01:26.000Z"
+          },
+          "createdAt": "2026-07-18T17:01:26.000Z",
+          "updatedAt": "2026-07-18T17:01:26.000Z"
+        },
+        {
+          "id": "dsc_9161",
+          "originalName": "DSC_9161.NEF",
+          "baseName": "DSC_9161",
+          "raw": {
+            "name": "DSC_9161.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9161.NEF",
+            "size": 27238064
+          },
+          "preview": {
+            "name": "DSC_9161.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9161.preview.jpg",
+            "size": 2032090
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9161.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27238064,
+            "previewBytes": 2032090,
+            "sourceLastModified": "2026-07-18T17:01:26.000Z"
+          },
+          "createdAt": "2026-07-18T17:01:26.000Z",
+          "updatedAt": "2026-07-18T17:01:26.000Z"
+        },
+        {
+          "id": "dsc_9162",
+          "originalName": "DSC_9162.NEF",
+          "baseName": "DSC_9162",
+          "raw": {
+            "name": "DSC_9162.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9162.NEF",
+            "size": 27286820
+          },
+          "preview": {
+            "name": "DSC_9162.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9162.preview.jpg",
+            "size": 2068091
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9162.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27286820,
+            "previewBytes": 2068091,
+            "sourceLastModified": "2026-07-18T17:01:28.000Z"
+          },
+          "createdAt": "2026-07-18T17:01:28.000Z",
+          "updatedAt": "2026-07-18T17:01:28.000Z"
+        },
+        {
+          "id": "dsc_9163",
+          "originalName": "DSC_9163.NEF",
+          "baseName": "DSC_9163",
+          "raw": {
+            "name": "DSC_9163.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9163.NEF",
+            "size": 27148087
+          },
+          "preview": {
+            "name": "DSC_9163.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9163.preview.jpg",
+            "size": 1999994
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9163.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27148087,
+            "previewBytes": 1999994,
+            "sourceLastModified": "2026-07-18T17:01:28.000Z"
+          },
+          "createdAt": "2026-07-18T17:01:28.000Z",
+          "updatedAt": "2026-07-18T17:01:28.000Z"
+        },
+        {
+          "id": "dsc_9164",
+          "originalName": "DSC_9164.NEF",
+          "baseName": "DSC_9164",
+          "raw": {
+            "name": "DSC_9164.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9164.NEF",
+            "size": 27011423
+          },
+          "preview": {
+            "name": "DSC_9164.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9164.preview.jpg",
+            "size": 1974938
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9164.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27011423,
+            "previewBytes": 1974938,
+            "sourceLastModified": "2026-07-18T17:01:28.000Z"
+          },
+          "createdAt": "2026-07-18T17:01:28.000Z",
+          "updatedAt": "2026-07-18T17:01:28.000Z"
+        },
+        {
+          "id": "dsc_9165",
+          "originalName": "DSC_9165.NEF",
+          "baseName": "DSC_9165",
+          "raw": {
+            "name": "DSC_9165.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9165.NEF",
+            "size": 26913377
+          },
+          "preview": {
+            "name": "DSC_9165.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9165.preview.jpg",
+            "size": 1963809
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9165.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26913377,
+            "previewBytes": 1963809,
+            "sourceLastModified": "2026-07-18T17:01:28.000Z"
+          },
+          "createdAt": "2026-07-18T17:01:28.000Z",
+          "updatedAt": "2026-07-18T17:01:28.000Z"
+        },
+        {
+          "id": "dsc_9166",
+          "originalName": "DSC_9166.NEF",
+          "baseName": "DSC_9166",
+          "raw": {
+            "name": "DSC_9166.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9166.NEF",
+            "size": 25716355
+          },
+          "preview": {
+            "name": "DSC_9166.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9166.preview.jpg",
+            "size": 1429985
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9166.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25716355,
+            "previewBytes": 1429985,
+            "sourceLastModified": "2026-07-18T17:02:00.000Z"
+          },
+          "createdAt": "2026-07-18T17:02:00.000Z",
+          "updatedAt": "2026-07-18T17:02:00.000Z"
+        },
+        {
+          "id": "dsc_9167",
+          "originalName": "DSC_9167.NEF",
+          "baseName": "DSC_9167",
+          "raw": {
+            "name": "DSC_9167.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9167.NEF",
+            "size": 25613317
+          },
+          "preview": {
+            "name": "DSC_9167.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9167.preview.jpg",
+            "size": 1374342
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9167.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25613317,
+            "previewBytes": 1374342,
+            "sourceLastModified": "2026-07-18T17:02:00.000Z"
+          },
+          "createdAt": "2026-07-18T17:02:00.000Z",
+          "updatedAt": "2026-07-18T17:02:00.000Z"
+        },
+        {
+          "id": "dsc_9168",
+          "originalName": "DSC_9168.NEF",
+          "baseName": "DSC_9168",
+          "raw": {
+            "name": "DSC_9168.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9168.NEF",
+            "size": 25820172
+          },
+          "preview": {
+            "name": "DSC_9168.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9168.preview.jpg",
+            "size": 1467994
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9168.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25820172,
+            "previewBytes": 1467994,
+            "sourceLastModified": "2026-07-18T17:02:00.000Z"
+          },
+          "createdAt": "2026-07-18T17:02:00.000Z",
+          "updatedAt": "2026-07-18T17:02:00.000Z"
+        },
+        {
+          "id": "dsc_9169",
+          "originalName": "DSC_9169.NEF",
+          "baseName": "DSC_9169",
+          "raw": {
+            "name": "DSC_9169.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9169.NEF",
+            "size": 26194541
+          },
+          "preview": {
+            "name": "DSC_9169.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9169.preview.jpg",
+            "size": 1588667
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9169.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26194541,
+            "previewBytes": 1588667,
+            "sourceLastModified": "2026-07-18T17:02:00.000Z"
+          },
+          "createdAt": "2026-07-18T17:02:00.000Z",
+          "updatedAt": "2026-07-18T17:02:00.000Z"
+        },
+        {
+          "id": "dsc_9170",
+          "originalName": "DSC_9170.NEF",
+          "baseName": "DSC_9170",
+          "raw": {
+            "name": "DSC_9170.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9170.NEF",
+            "size": 25816489
+          },
+          "preview": {
+            "name": "DSC_9170.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9170.preview.jpg",
+            "size": 1463309
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9170.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25816489,
+            "previewBytes": 1463309,
+            "sourceLastModified": "2026-07-18T17:02:00.000Z"
+          },
+          "createdAt": "2026-07-18T17:02:00.000Z",
+          "updatedAt": "2026-07-18T17:02:00.000Z"
+        },
+        {
+          "id": "dsc_9171",
+          "originalName": "DSC_9171.NEF",
+          "baseName": "DSC_9171",
+          "raw": {
+            "name": "DSC_9171.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9171.NEF",
+            "size": 25425533
+          },
+          "preview": {
+            "name": "DSC_9171.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9171.preview.jpg",
+            "size": 1332940
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9171.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25425533,
+            "previewBytes": 1332940,
+            "sourceLastModified": "2026-07-18T17:02:00.000Z"
+          },
+          "createdAt": "2026-07-18T17:02:00.000Z",
+          "updatedAt": "2026-07-18T17:02:00.000Z"
+        },
+        {
+          "id": "dsc_9172",
+          "originalName": "DSC_9172.NEF",
+          "baseName": "DSC_9172",
+          "raw": {
+            "name": "DSC_9172.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9172.NEF",
+            "size": 26821107
+          },
+          "preview": {
+            "name": "DSC_9172.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9172.preview.jpg",
+            "size": 1732602
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9172.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26821107,
+            "previewBytes": 1732602,
+            "sourceLastModified": "2026-07-18T17:02:02.000Z"
+          },
+          "createdAt": "2026-07-18T17:02:02.000Z",
+          "updatedAt": "2026-07-18T17:02:02.000Z"
+        },
+        {
+          "id": "dsc_9173",
+          "originalName": "DSC_9173.NEF",
+          "baseName": "DSC_9173",
+          "raw": {
+            "name": "DSC_9173.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9173.NEF",
+            "size": 26835194
+          },
+          "preview": {
+            "name": "DSC_9173.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9173.preview.jpg",
+            "size": 1744893
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9173.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26835194,
+            "previewBytes": 1744893,
+            "sourceLastModified": "2026-07-18T17:02:04.000Z"
+          },
+          "createdAt": "2026-07-18T17:02:04.000Z",
+          "updatedAt": "2026-07-18T17:02:04.000Z"
+        },
+        {
+          "id": "dsc_9174",
+          "originalName": "DSC_9174.NEF",
+          "baseName": "DSC_9174",
+          "raw": {
+            "name": "DSC_9174.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9174.NEF",
+            "size": 26492974
+          },
+          "preview": {
+            "name": "DSC_9174.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9174.preview.jpg",
+            "size": 1750261
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9174.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26492974,
+            "previewBytes": 1750261,
+            "sourceLastModified": "2026-07-18T17:02:06.000Z"
+          },
+          "createdAt": "2026-07-18T17:02:06.000Z",
+          "updatedAt": "2026-07-18T17:02:06.000Z"
+        },
+        {
+          "id": "dsc_9175",
+          "originalName": "DSC_9175.NEF",
+          "baseName": "DSC_9175",
+          "raw": {
+            "name": "DSC_9175.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9175.NEF",
+            "size": 26858816
+          },
+          "preview": {
+            "name": "DSC_9175.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9175.preview.jpg",
+            "size": 1907919
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9175.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26858816,
+            "previewBytes": 1907919,
+            "sourceLastModified": "2026-07-18T17:02:06.000Z"
+          },
+          "createdAt": "2026-07-18T17:02:06.000Z",
+          "updatedAt": "2026-07-18T17:02:06.000Z"
+        },
+        {
+          "id": "dsc_9176",
+          "originalName": "DSC_9176.NEF",
+          "baseName": "DSC_9176",
+          "raw": {
+            "name": "DSC_9176.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9176.NEF",
+            "size": 26696701
+          },
+          "preview": {
+            "name": "DSC_9176.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9176.preview.jpg",
+            "size": 1837625
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9176.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26696701,
+            "previewBytes": 1837625,
+            "sourceLastModified": "2026-07-18T17:02:06.000Z"
+          },
+          "createdAt": "2026-07-18T17:02:06.000Z",
+          "updatedAt": "2026-07-18T17:02:06.000Z"
+        },
+        {
+          "id": "dsc_9177",
+          "originalName": "DSC_9177.NEF",
+          "baseName": "DSC_9177",
+          "raw": {
+            "name": "DSC_9177.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9177.NEF",
+            "size": 26882598
+          },
+          "preview": {
+            "name": "DSC_9177.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9177.preview.jpg",
+            "size": 1897934
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9177.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26882598,
+            "previewBytes": 1897934,
+            "sourceLastModified": "2026-07-18T17:02:10.000Z"
+          },
+          "createdAt": "2026-07-18T17:02:10.000Z",
+          "updatedAt": "2026-07-18T17:02:10.000Z"
+        },
+        {
+          "id": "dsc_9178",
+          "originalName": "DSC_9178.NEF",
+          "baseName": "DSC_9178",
+          "raw": {
+            "name": "DSC_9178.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9178.NEF",
+            "size": 27074072
+          },
+          "preview": {
+            "name": "DSC_9178.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9178.preview.jpg",
+            "size": 1984827
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9178.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27074072,
+            "previewBytes": 1984827,
+            "sourceLastModified": "2026-07-18T17:02:10.000Z"
+          },
+          "createdAt": "2026-07-18T17:02:10.000Z",
+          "updatedAt": "2026-07-18T17:02:10.000Z"
+        },
+        {
+          "id": "dsc_9179",
+          "originalName": "DSC_9179.NEF",
+          "baseName": "DSC_9179",
+          "raw": {
+            "name": "DSC_9179.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9179.NEF",
+            "size": 27225358
+          },
+          "preview": {
+            "name": "DSC_9179.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9179.preview.jpg",
+            "size": 2045502
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9179.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27225358,
+            "previewBytes": 2045502,
+            "sourceLastModified": "2026-07-18T17:02:10.000Z"
+          },
+          "createdAt": "2026-07-18T17:02:10.000Z",
+          "updatedAt": "2026-07-18T17:02:10.000Z"
+        },
+        {
+          "id": "dsc_9185",
+          "originalName": "DSC_9185.NEF",
+          "baseName": "DSC_9185",
+          "raw": {
+            "name": "DSC_9185.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9185.NEF",
+            "size": 24941064
+          },
+          "preview": {
+            "name": "DSC_9185.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9185.preview.jpg",
+            "size": 1214086
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9185.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 24941064,
+            "previewBytes": 1214086,
+            "sourceLastModified": "2026-07-18T17:06:12.000Z"
+          },
+          "createdAt": "2026-07-18T17:06:12.000Z",
+          "updatedAt": "2026-07-18T17:06:12.000Z"
+        },
+        {
+          "id": "dsc_9187",
+          "originalName": "DSC_9187.NEF",
+          "baseName": "DSC_9187",
+          "raw": {
+            "name": "DSC_9187.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9187.NEF",
+            "size": 26349926
+          },
+          "preview": {
+            "name": "DSC_9187.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9187.preview.jpg",
+            "size": 1726630
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9187.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26349926,
+            "previewBytes": 1726630,
+            "sourceLastModified": "2026-07-18T17:06:14.000Z"
+          },
+          "createdAt": "2026-07-18T17:06:14.000Z",
+          "updatedAt": "2026-07-18T17:06:14.000Z"
+        },
+        {
+          "id": "dsc_9189",
+          "originalName": "DSC_9189.NEF",
+          "baseName": "DSC_9189",
+          "raw": {
+            "name": "DSC_9189.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9189.NEF",
+            "size": 25841592
+          },
+          "preview": {
+            "name": "DSC_9189.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9189.preview.jpg",
+            "size": 1550399
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9189.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25841592,
+            "previewBytes": 1550399,
+            "sourceLastModified": "2026-07-18T17:06:14.000Z"
+          },
+          "createdAt": "2026-07-18T17:06:14.000Z",
+          "updatedAt": "2026-07-18T17:06:14.000Z"
+        },
+        {
+          "id": "dsc_9190",
+          "originalName": "DSC_9190.NEF",
+          "baseName": "DSC_9190",
+          "raw": {
+            "name": "DSC_9190.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9190.NEF",
+            "size": 25626248
+          },
+          "preview": {
+            "name": "DSC_9190.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9190.preview.jpg",
+            "size": 1464659
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9190.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25626248,
+            "previewBytes": 1464659,
+            "sourceLastModified": "2026-07-18T17:06:16.000Z"
+          },
+          "createdAt": "2026-07-18T17:06:16.000Z",
+          "updatedAt": "2026-07-18T17:06:16.000Z"
+        },
+        {
+          "id": "dsc_9191",
+          "originalName": "DSC_9191.NEF",
+          "baseName": "DSC_9191",
+          "raw": {
+            "name": "DSC_9191.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9191.NEF",
+            "size": 26240657
+          },
+          "preview": {
+            "name": "DSC_9191.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9191.preview.jpg",
+            "size": 1836130
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9191.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26240657,
+            "previewBytes": 1836130,
+            "sourceLastModified": "2026-07-18T17:06:42.000Z"
+          },
+          "createdAt": "2026-07-18T17:06:42.000Z",
+          "updatedAt": "2026-07-18T17:06:42.000Z"
+        },
+        {
+          "id": "dsc_9192",
+          "originalName": "DSC_9192.NEF",
+          "baseName": "DSC_9192",
+          "raw": {
+            "name": "DSC_9192.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9192.NEF",
+            "size": 26331915
+          },
+          "preview": {
+            "name": "DSC_9192.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9192.preview.jpg",
+            "size": 1773202
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9192.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26331915,
+            "previewBytes": 1773202,
+            "sourceLastModified": "2026-07-18T17:06:42.000Z"
+          },
+          "createdAt": "2026-07-18T17:06:42.000Z",
+          "updatedAt": "2026-07-18T17:06:42.000Z"
+        },
+        {
+          "id": "dsc_9193",
+          "originalName": "DSC_9193.NEF",
+          "baseName": "DSC_9193",
+          "raw": {
+            "name": "DSC_9193.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9193.NEF",
+            "size": 25885478
+          },
+          "preview": {
+            "name": "DSC_9193.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9193.preview.jpg",
+            "size": 1620293
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9193.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25885478,
+            "previewBytes": 1620293,
+            "sourceLastModified": "2026-07-18T17:06:42.000Z"
+          },
+          "createdAt": "2026-07-18T17:06:42.000Z",
+          "updatedAt": "2026-07-18T17:06:42.000Z"
+        },
+        {
+          "id": "dsc_9204",
+          "originalName": "DSC_9204.NEF",
+          "baseName": "DSC_9204",
+          "raw": {
+            "name": "DSC_9204.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9204.NEF",
+            "size": 24476617
+          },
+          "preview": {
+            "name": "DSC_9204.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9204.preview.jpg",
+            "size": 1434922
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9204.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 24476617,
+            "previewBytes": 1434922,
+            "sourceLastModified": "2026-07-18T17:10:14.000Z"
+          },
+          "createdAt": "2026-07-18T17:10:14.000Z",
+          "updatedAt": "2026-07-18T17:10:14.000Z"
+        },
+        {
+          "id": "dsc_9205",
+          "originalName": "DSC_9205.NEF",
+          "baseName": "DSC_9205",
+          "raw": {
+            "name": "DSC_9205.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9205.NEF",
+            "size": 24665188
+          },
+          "preview": {
+            "name": "DSC_9205.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9205.preview.jpg",
+            "size": 1487231
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9205.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 24665188,
+            "previewBytes": 1487231,
+            "sourceLastModified": "2026-07-18T17:10:16.000Z"
+          },
+          "createdAt": "2026-07-18T17:10:16.000Z",
+          "updatedAt": "2026-07-18T17:10:16.000Z"
+        },
+        {
+          "id": "dsc_9206",
+          "originalName": "DSC_9206.NEF",
+          "baseName": "DSC_9206",
+          "raw": {
+            "name": "DSC_9206.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9206.NEF",
+            "size": 25043537
+          },
+          "preview": {
+            "name": "DSC_9206.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9206.preview.jpg",
+            "size": 1111554
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9206.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25043537,
+            "previewBytes": 1111554,
+            "sourceLastModified": "2026-07-18T17:10:20.000Z"
+          },
+          "createdAt": "2026-07-18T17:10:20.000Z",
+          "updatedAt": "2026-07-18T17:10:20.000Z"
+        },
+        {
+          "id": "dsc_9207",
+          "originalName": "DSC_9207.NEF",
+          "baseName": "DSC_9207",
+          "raw": {
+            "name": "DSC_9207.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9207.NEF",
+            "size": 26560722
+          },
+          "preview": {
+            "name": "DSC_9207.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9207.preview.jpg",
+            "size": 1625422
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9207.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26560722,
+            "previewBytes": 1625422,
+            "sourceLastModified": "2026-07-18T17:10:22.000Z"
+          },
+          "createdAt": "2026-07-18T17:10:22.000Z",
+          "updatedAt": "2026-07-18T17:10:22.000Z"
+        },
+        {
+          "id": "dsc_9208",
+          "originalName": "DSC_9208.NEF",
+          "baseName": "DSC_9208",
+          "raw": {
+            "name": "DSC_9208.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9208.NEF",
+            "size": 25941898
+          },
+          "preview": {
+            "name": "DSC_9208.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9208.preview.jpg",
+            "size": 1596351
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9208.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25941898,
+            "previewBytes": 1596351,
+            "sourceLastModified": "2026-07-18T17:10:38.000Z"
+          },
+          "createdAt": "2026-07-18T17:10:38.000Z",
+          "updatedAt": "2026-07-18T17:10:38.000Z"
+        },
+        {
+          "id": "dsc_9209",
+          "originalName": "DSC_9209.NEF",
+          "baseName": "DSC_9209",
+          "raw": {
+            "name": "DSC_9209.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9209.NEF",
+            "size": 26517332
+          },
+          "preview": {
+            "name": "DSC_9209.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9209.preview.jpg",
+            "size": 1747807
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9209.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26517332,
+            "previewBytes": 1747807,
+            "sourceLastModified": "2026-07-18T17:10:40.000Z"
+          },
+          "createdAt": "2026-07-18T17:10:40.000Z",
+          "updatedAt": "2026-07-18T17:10:40.000Z"
+        },
+        {
+          "id": "dsc_9211",
+          "originalName": "DSC_9211.NEF",
+          "baseName": "DSC_9211",
+          "raw": {
+            "name": "DSC_9211.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9211.NEF",
+            "size": 24945762
+          },
+          "preview": {
+            "name": "DSC_9211.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9211.preview.jpg",
+            "size": 1318561
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9211.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 24945762,
+            "previewBytes": 1318561,
+            "sourceLastModified": "2026-07-18T17:12:52.000Z"
+          },
+          "createdAt": "2026-07-18T17:12:52.000Z",
+          "updatedAt": "2026-07-18T17:12:52.000Z"
+        },
+        {
+          "id": "dsc_9212",
+          "originalName": "DSC_9212.NEF",
+          "baseName": "DSC_9212",
+          "raw": {
+            "name": "DSC_9212.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9212.NEF",
+            "size": 25659831
+          },
+          "preview": {
+            "name": "DSC_9212.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9212.preview.jpg",
+            "size": 1513070
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9212.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25659831,
+            "previewBytes": 1513070,
+            "sourceLastModified": "2026-07-18T17:12:54.000Z"
+          },
+          "createdAt": "2026-07-18T17:12:54.000Z",
+          "updatedAt": "2026-07-18T17:12:54.000Z"
+        },
+        {
+          "id": "dsc_9213",
+          "originalName": "DSC_9213.NEF",
+          "baseName": "DSC_9213",
+          "raw": {
+            "name": "DSC_9213.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9213.NEF",
+            "size": 25040171
+          },
+          "preview": {
+            "name": "DSC_9213.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9213.preview.jpg",
+            "size": 1339604
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9213.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25040171,
+            "previewBytes": 1339604,
+            "sourceLastModified": "2026-07-18T17:12:54.000Z"
+          },
+          "createdAt": "2026-07-18T17:12:54.000Z",
+          "updatedAt": "2026-07-18T17:12:54.000Z"
+        },
+        {
+          "id": "dsc_9216",
+          "originalName": "DSC_9216.NEF",
+          "baseName": "DSC_9216",
+          "raw": {
+            "name": "DSC_9216.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9216.NEF",
+            "size": 25230183
+          },
+          "preview": {
+            "name": "DSC_9216.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9216.preview.jpg",
+            "size": 1192581
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9216.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25230183,
+            "previewBytes": 1192581,
+            "sourceLastModified": "2026-07-18T17:14:22.000Z"
+          },
+          "createdAt": "2026-07-18T17:14:22.000Z",
+          "updatedAt": "2026-07-18T17:14:22.000Z"
+        },
+        {
+          "id": "dsc_9217",
+          "originalName": "DSC_9217.NEF",
+          "baseName": "DSC_9217",
+          "raw": {
+            "name": "DSC_9217.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9217.NEF",
+            "size": 25206487
+          },
+          "preview": {
+            "name": "DSC_9217.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9217.preview.jpg",
+            "size": 1168518
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9217.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25206487,
+            "previewBytes": 1168518,
+            "sourceLastModified": "2026-07-18T17:14:22.000Z"
+          },
+          "createdAt": "2026-07-18T17:14:22.000Z",
+          "updatedAt": "2026-07-18T17:14:22.000Z"
+        },
+        {
+          "id": "dsc_9218",
+          "originalName": "DSC_9218.NEF",
+          "baseName": "DSC_9218",
+          "raw": {
+            "name": "DSC_9218.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9218.NEF",
+            "size": 24862619
+          },
+          "preview": {
+            "name": "DSC_9218.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9218.preview.jpg",
+            "size": 1045810
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9218.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 24862619,
+            "previewBytes": 1045810,
+            "sourceLastModified": "2026-07-18T17:14:22.000Z"
+          },
+          "createdAt": "2026-07-18T17:14:22.000Z",
+          "updatedAt": "2026-07-18T17:14:22.000Z"
+        },
+        {
+          "id": "dsc_9219",
+          "originalName": "DSC_9219.NEF",
+          "baseName": "DSC_9219",
+          "raw": {
+            "name": "DSC_9219.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9219.NEF",
+            "size": 28141004
+          },
+          "preview": {
+            "name": "DSC_9219.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9219.preview.jpg",
+            "size": 2368882
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9219.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 28141004,
+            "previewBytes": 2368882,
+            "sourceLastModified": "2026-07-18T17:16:42.000Z"
+          },
+          "createdAt": "2026-07-18T17:16:42.000Z",
+          "updatedAt": "2026-07-18T17:16:42.000Z"
+        },
+        {
+          "id": "dsc_9220",
+          "originalName": "DSC_9220.NEF",
+          "baseName": "DSC_9220",
+          "raw": {
+            "name": "DSC_9220.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9220.NEF",
+            "size": 27887759
+          },
+          "preview": {
+            "name": "DSC_9220.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9220.preview.jpg",
+            "size": 2258168
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9220.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27887759,
+            "previewBytes": 2258168,
+            "sourceLastModified": "2026-07-18T17:16:42.000Z"
+          },
+          "createdAt": "2026-07-18T17:16:42.000Z",
+          "updatedAt": "2026-07-18T17:16:42.000Z"
+        },
+        {
+          "id": "dsc_9221",
+          "originalName": "DSC_9221.NEF",
+          "baseName": "DSC_9221",
+          "raw": {
+            "name": "DSC_9221.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9221.NEF",
+            "size": 27609462
+          },
+          "preview": {
+            "name": "DSC_9221.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9221.preview.jpg",
+            "size": 2153418
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9221.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27609462,
+            "previewBytes": 2153418,
+            "sourceLastModified": "2026-07-18T17:16:42.000Z"
+          },
+          "createdAt": "2026-07-18T17:16:42.000Z",
+          "updatedAt": "2026-07-18T17:16:42.000Z"
+        },
+        {
+          "id": "dsc_9222",
+          "originalName": "DSC_9222.NEF",
+          "baseName": "DSC_9222",
+          "raw": {
+            "name": "DSC_9222.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9222.NEF",
+            "size": 28729424
+          },
+          "preview": {
+            "name": "DSC_9222.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9222.preview.jpg",
+            "size": 2566432
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9222.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 28729424,
+            "previewBytes": 2566432,
+            "sourceLastModified": "2026-07-18T17:16:42.000Z"
+          },
+          "createdAt": "2026-07-18T17:16:42.000Z",
+          "updatedAt": "2026-07-18T17:16:42.000Z"
+        },
+        {
+          "id": "dsc_9223",
+          "originalName": "DSC_9223.NEF",
+          "baseName": "DSC_9223",
+          "raw": {
+            "name": "DSC_9223.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9223.NEF",
+            "size": 28752417
+          },
+          "preview": {
+            "name": "DSC_9223.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9223.preview.jpg",
+            "size": 2586298
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9223.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 28752417,
+            "previewBytes": 2586298,
+            "sourceLastModified": "2026-07-18T17:16:42.000Z"
+          },
+          "createdAt": "2026-07-18T17:16:42.000Z",
+          "updatedAt": "2026-07-18T17:16:42.000Z"
+        },
+        {
+          "id": "dsc_9224",
+          "originalName": "DSC_9224.NEF",
+          "baseName": "DSC_9224",
+          "raw": {
+            "name": "DSC_9224.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9224.NEF",
+            "size": 27309155
+          },
+          "preview": {
+            "name": "DSC_9224.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9224.preview.jpg",
+            "size": 2061636
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9224.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27309155,
+            "previewBytes": 2061636,
+            "sourceLastModified": "2026-07-18T17:16:50.000Z"
+          },
+          "createdAt": "2026-07-18T17:16:50.000Z",
+          "updatedAt": "2026-07-18T17:16:50.000Z"
+        },
+        {
+          "id": "dsc_9225",
+          "originalName": "DSC_9225.NEF",
+          "baseName": "DSC_9225",
+          "raw": {
+            "name": "DSC_9225.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9225.NEF",
+            "size": 25794896
+          },
+          "preview": {
+            "name": "DSC_9225.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9225.preview.jpg",
+            "size": 1363681
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9225.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25794896,
+            "previewBytes": 1363681,
+            "sourceLastModified": "2026-07-18T17:16:56.000Z"
+          },
+          "createdAt": "2026-07-18T17:16:56.000Z",
+          "updatedAt": "2026-07-18T17:16:56.000Z"
+        },
+        {
+          "id": "dsc_9226",
+          "originalName": "DSC_9226.NEF",
+          "baseName": "DSC_9226",
+          "raw": {
+            "name": "DSC_9226.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9226.NEF",
+            "size": 26629421
+          },
+          "preview": {
+            "name": "DSC_9226.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9226.preview.jpg",
+            "size": 1616211
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9226.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26629421,
+            "previewBytes": 1616211,
+            "sourceLastModified": "2026-07-18T17:16:56.000Z"
+          },
+          "createdAt": "2026-07-18T17:16:56.000Z",
+          "updatedAt": "2026-07-18T17:16:56.000Z"
+        },
+        {
+          "id": "dsc_9227",
+          "originalName": "DSC_9227.NEF",
+          "baseName": "DSC_9227",
+          "raw": {
+            "name": "DSC_9227.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9227.NEF",
+            "size": 28974736
+          },
+          "preview": {
+            "name": "DSC_9227.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9227.preview.jpg",
+            "size": 2720067
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9227.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 28974736,
+            "previewBytes": 2720067,
+            "sourceLastModified": "2026-07-18T17:18:20.000Z"
+          },
+          "createdAt": "2026-07-18T17:18:20.000Z",
+          "updatedAt": "2026-07-18T17:18:20.000Z"
+        },
+        {
+          "id": "dsc_9228",
+          "originalName": "DSC_9228.NEF",
+          "baseName": "DSC_9228",
+          "raw": {
+            "name": "DSC_9228.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9228.NEF",
+            "size": 29444666
+          },
+          "preview": {
+            "name": "DSC_9228.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9228.preview.jpg",
+            "size": 2949997
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9228.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 29444666,
+            "previewBytes": 2949997,
+            "sourceLastModified": "2026-07-18T17:18:20.000Z"
+          },
+          "createdAt": "2026-07-18T17:18:20.000Z",
+          "updatedAt": "2026-07-18T17:18:20.000Z"
+        },
+        {
+          "id": "dsc_9229",
+          "originalName": "DSC_9229.NEF",
+          "baseName": "DSC_9229",
+          "raw": {
+            "name": "DSC_9229.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9229.NEF",
+            "size": 29518093
+          },
+          "preview": {
+            "name": "DSC_9229.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9229.preview.jpg",
+            "size": 2967933
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9229.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 29518093,
+            "previewBytes": 2967933,
+            "sourceLastModified": "2026-07-18T17:18:20.000Z"
+          },
+          "createdAt": "2026-07-18T17:18:20.000Z",
+          "updatedAt": "2026-07-18T17:18:20.000Z"
+        },
+        {
+          "id": "dsc_9232",
+          "originalName": "DSC_9232.NEF",
+          "baseName": "DSC_9232",
+          "raw": {
+            "name": "DSC_9232.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9232.NEF",
+            "size": 27956808
+          },
+          "preview": {
+            "name": "DSC_9232.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9232.preview.jpg",
+            "size": 2365806
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9232.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27956808,
+            "previewBytes": 2365806,
+            "sourceLastModified": "2026-07-18T17:19:28.000Z"
+          },
+          "createdAt": "2026-07-18T17:19:28.000Z",
+          "updatedAt": "2026-07-18T17:19:28.000Z"
+        },
+        {
+          "id": "dsc_9233",
+          "originalName": "DSC_9233.NEF",
+          "baseName": "DSC_9233",
+          "raw": {
+            "name": "DSC_9233.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9233.NEF",
+            "size": 28218793
+          },
+          "preview": {
+            "name": "DSC_9233.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9233.preview.jpg",
+            "size": 2481372
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9233.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 28218793,
+            "previewBytes": 2481372,
+            "sourceLastModified": "2026-07-18T17:19:30.000Z"
+          },
+          "createdAt": "2026-07-18T17:19:30.000Z",
+          "updatedAt": "2026-07-18T17:19:30.000Z"
+        },
+        {
+          "id": "dsc_9234",
+          "originalName": "DSC_9234.NEF",
+          "baseName": "DSC_9234",
+          "raw": {
+            "name": "DSC_9234.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9234.NEF",
+            "size": 28079284
+          },
+          "preview": {
+            "name": "DSC_9234.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9234.preview.jpg",
+            "size": 2410662
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9234.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 28079284,
+            "previewBytes": 2410662,
+            "sourceLastModified": "2026-07-18T17:19:30.000Z"
+          },
+          "createdAt": "2026-07-18T17:19:30.000Z",
+          "updatedAt": "2026-07-18T17:19:30.000Z"
+        },
+        {
+          "id": "dsc_9235",
+          "originalName": "DSC_9235.NEF",
+          "baseName": "DSC_9235",
+          "raw": {
+            "name": "DSC_9235.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9235.NEF",
+            "size": 28215988
+          },
+          "preview": {
+            "name": "DSC_9235.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9235.preview.jpg",
+            "size": 2418902
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9235.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 28215988,
+            "previewBytes": 2418902,
+            "sourceLastModified": "2026-07-18T17:19:30.000Z"
+          },
+          "createdAt": "2026-07-18T17:19:30.000Z",
+          "updatedAt": "2026-07-18T17:19:30.000Z"
+        },
+        {
+          "id": "dsc_9236",
+          "originalName": "DSC_9236.NEF",
+          "baseName": "DSC_9236",
+          "raw": {
+            "name": "DSC_9236.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9236.NEF",
+            "size": 26804238
+          },
+          "preview": {
+            "name": "DSC_9236.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9236.preview.jpg",
+            "size": 1968159
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9236.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26804238,
+            "previewBytes": 1968159,
+            "sourceLastModified": "2026-07-18T17:19:48.000Z"
+          },
+          "createdAt": "2026-07-18T17:19:48.000Z",
+          "updatedAt": "2026-07-18T17:19:48.000Z"
+        },
+        {
+          "id": "dsc_9238",
+          "originalName": "DSC_9238.NEF",
+          "baseName": "DSC_9238",
+          "raw": {
+            "name": "DSC_9238.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9238.NEF",
+            "size": 26626173
+          },
+          "preview": {
+            "name": "DSC_9238.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9238.preview.jpg",
+            "size": 1728748
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9238.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 26626173,
+            "previewBytes": 1728748,
+            "sourceLastModified": "2026-07-18T17:19:52.000Z"
+          },
+          "createdAt": "2026-07-18T17:19:52.000Z",
+          "updatedAt": "2026-07-18T17:19:52.000Z"
+        },
+        {
+          "id": "dsc_9239",
+          "originalName": "DSC_9239.NEF",
+          "baseName": "DSC_9239",
+          "raw": {
+            "name": "DSC_9239.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9239.NEF",
+            "size": 27179493
+          },
+          "preview": {
+            "name": "DSC_9239.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9239.preview.jpg",
+            "size": 1938313
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9239.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 27179493,
+            "previewBytes": 1938313,
+            "sourceLastModified": "2026-07-18T17:21:32.000Z"
+          },
+          "createdAt": "2026-07-18T17:21:32.000Z",
+          "updatedAt": "2026-07-18T17:21:32.000Z"
+        },
+        {
+          "id": "dsc_9240",
+          "originalName": "DSC_9240.NEF",
+          "baseName": "DSC_9240",
+          "raw": {
+            "name": "DSC_9240.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9240.NEF",
+            "size": 28035682
+          },
+          "preview": {
+            "name": "DSC_9240.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9240.preview.jpg",
+            "size": 2330787
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9240.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 28035682,
+            "previewBytes": 2330787,
+            "sourceLastModified": "2026-07-18T17:21:34.000Z"
+          },
+          "createdAt": "2026-07-18T17:21:34.000Z",
+          "updatedAt": "2026-07-18T17:21:34.000Z"
+        },
+        {
+          "id": "dsc_9241",
+          "originalName": "DSC_9241.NEF",
+          "baseName": "DSC_9241",
+          "raw": {
+            "name": "DSC_9241.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9241.NEF",
+            "size": 24484448
+          },
+          "preview": {
+            "name": "DSC_9241.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9241.preview.jpg",
+            "size": 983238
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9241.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 24484448,
+            "previewBytes": 983238,
+            "sourceLastModified": "2026-07-18T17:23:54.000Z"
+          },
+          "createdAt": "2026-07-18T17:23:54.000Z",
+          "updatedAt": "2026-07-18T17:23:54.000Z"
+        },
+        {
+          "id": "dsc_9243",
+          "originalName": "DSC_9243.NEF",
+          "baseName": "DSC_9243",
+          "raw": {
+            "name": "DSC_9243.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9243.NEF",
+            "size": 25660475
+          },
+          "preview": {
+            "name": "DSC_9243.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9243.preview.jpg",
+            "size": 1398999
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9243.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25660475,
+            "previewBytes": 1398999,
+            "sourceLastModified": "2026-07-18T17:24:00.000Z"
+          },
+          "createdAt": "2026-07-18T17:24:00.000Z",
+          "updatedAt": "2026-07-18T17:24:00.000Z"
+        },
+        {
+          "id": "dsc_9244",
+          "originalName": "DSC_9244.NEF",
+          "baseName": "DSC_9244",
+          "raw": {
+            "name": "DSC_9244.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9244.NEF",
+            "size": 25674156
+          },
+          "preview": {
+            "name": "DSC_9244.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9244.preview.jpg",
+            "size": 1446832
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9244.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25674156,
+            "previewBytes": 1446832,
+            "sourceLastModified": "2026-07-18T17:24:02.000Z"
+          },
+          "createdAt": "2026-07-18T17:24:02.000Z",
+          "updatedAt": "2026-07-18T17:24:02.000Z"
+        },
+        {
+          "id": "dsc_9245",
+          "originalName": "DSC_9245.NEF",
+          "baseName": "DSC_9245",
+          "raw": {
+            "name": "DSC_9245.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9245.NEF",
+            "size": 25700393
+          },
+          "preview": {
+            "name": "DSC_9245.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9245.preview.jpg",
+            "size": 1408241
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9245.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25700393,
+            "previewBytes": 1408241,
+            "sourceLastModified": "2026-07-18T17:24:02.000Z"
+          },
+          "createdAt": "2026-07-18T17:24:02.000Z",
+          "updatedAt": "2026-07-18T17:24:02.000Z"
+        },
+        {
+          "id": "dsc_9246",
+          "originalName": "DSC_9246.NEF",
+          "baseName": "DSC_9246",
+          "raw": {
+            "name": "DSC_9246.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9246.NEF",
+            "size": 24690842
+          },
+          "preview": {
+            "name": "DSC_9246.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9246.preview.jpg",
+            "size": 1113879
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9246.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 24690842,
+            "previewBytes": 1113879,
+            "sourceLastModified": "2026-07-18T17:24:08.000Z"
+          },
+          "createdAt": "2026-07-18T17:24:08.000Z",
+          "updatedAt": "2026-07-18T17:24:08.000Z"
+        },
+        {
+          "id": "dsc_9265",
+          "originalName": "DSC_9265.NEF",
+          "baseName": "DSC_9265",
+          "raw": {
+            "name": "DSC_9265.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9265.NEF",
+            "size": 25118899
+          },
+          "preview": {
+            "name": "DSC_9265.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9265.preview.jpg",
+            "size": 1268447
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9265.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 25118899,
+            "previewBytes": 1268447,
+            "sourceLastModified": "2026-07-18T17:26:30.000Z"
+          },
+          "createdAt": "2026-07-18T17:26:30.000Z",
+          "updatedAt": "2026-07-18T17:26:30.000Z"
+        },
+        {
+          "id": "dsc_9267",
+          "originalName": "DSC_9267.NEF",
+          "baseName": "DSC_9267",
+          "raw": {
+            "name": "DSC_9267.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9267.NEF",
+            "size": 23762883
+          },
+          "preview": {
+            "name": "DSC_9267.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9267.preview.jpg",
+            "size": 1145633
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9267.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 23762883,
+            "previewBytes": 1145633,
+            "sourceLastModified": "2026-07-18T17:28:56.000Z"
+          },
+          "createdAt": "2026-07-18T17:28:56.000Z",
+          "updatedAt": "2026-07-18T17:28:56.000Z"
+        },
+        {
+          "id": "dsc_9269",
+          "originalName": "DSC_9269.NEF",
+          "baseName": "DSC_9269",
+          "raw": {
+            "name": "DSC_9269.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9269.NEF",
+            "size": 23251211
+          },
+          "preview": {
+            "name": "DSC_9269.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9269.preview.jpg",
+            "size": 780600
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9269.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 23251211,
+            "previewBytes": 780600,
+            "sourceLastModified": "2026-07-19T08:01:28.000Z"
+          },
+          "createdAt": "2026-07-19T08:01:28.000Z",
+          "updatedAt": "2026-07-19T08:01:28.000Z"
+        },
+        {
+          "id": "dsc_9270",
+          "originalName": "DSC_9270.NEF",
+          "baseName": "DSC_9270",
+          "raw": {
+            "name": "DSC_9270.NEF",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9270.NEF",
+            "size": 23337754
+          },
+          "preview": {
+            "name": "DSC_9270.preview.jpg",
+            "url": "https://github.com/flohuawei39-commits/ostfriesland-bilder/releases/download/gallery-ofrila07/DSC_9270.preview.jpg",
+            "size": 803299
+          },
+          "thumbnailPath": "thumbnails/ofrila07/dsc_9270.webp",
+          "previewQuality": "full",
+          "metadata": {
+            "width": 6000,
+            "height": 4000,
+            "rawBytes": 23337754,
+            "previewBytes": 803299,
+            "sourceLastModified": "2026-07-19T08:01:28.000Z"
+          },
+          "createdAt": "2026-07-19T08:01:28.000Z",
+          "updatedAt": "2026-07-19T08:01:28.000Z"
+        }
+      ]
+    }
+  ]
+}
